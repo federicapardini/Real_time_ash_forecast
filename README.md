@@ -4,6 +4,6 @@ When VONA RED bulletins are released, numerical simulations are initialized and 
 
 The numerical codes used in this procedure are the eruptive column model PLUME-MoM-TSM and the VATDM HYSPLIT.
 
-Select XXX.md to see the latest results.
+For each RED VONA bulletin released at time YYYY-MM-DD/HH-mm Z, a directory named YYYYMMDD_HHmmZ is created and results uploaed automatically.
 
-For more details and information, select YYY.md
+Select the directory of interest and the file XXX.md to see the latest results. For more details on the numerical procedure and results, select YYY.md
