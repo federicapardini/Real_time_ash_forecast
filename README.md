@@ -1,8 +1,10 @@
-# Real-time ash forecast at Mt. Etna
+# Real-time ash forecast at Mt. Etna (Italy)
 
-When VONA RED bulletins are released, numerical simulations are initialized and performed automatically and in real-time to forecast ash dispersion and deposition patterns.
+This repository provides volcanic ash hazards maps at Mt. Etna produced by numerical simulations performed in real-time when explosive eruptions occur.
 
-The numerical codes used in this procedure are the eruptive column model PLUME-MoM-TSM and the VATDM HYSPLIT.
+The numerical procedure for ash forecast has been developed at INGV-Sezione di Pisa and it runs automatically and in real-time when bulletins reporting Mt. Etna explosive activity are released by The Etnean Observatory of INGV.
+
+The numerical codes used are the eruptive column model PLUME-MoM-TSM and the VATDM HYSPLIT.
 
 For each RED VONA bulletin released at time YYYY-MM-DD/HH-mm Z, a directory named YYYYMMDD_HHmmZ is created and results uploaed automatically.
 
