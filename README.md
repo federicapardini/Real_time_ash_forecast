@@ -10,6 +10,5 @@ Select the directory of interest and the file XXX.md to see the latest results. 
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-Go to [about page](about.md)
 
 
