@@ -14,6 +14,7 @@ Contents
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-02-24 21:20 Z](#forecast-at-2021-02-24-2120-z)
 	* [Forecast at 2021-02-25 00:20 Z](#forecast-at-2021-02-25-0020-z)
+	* [Forecast at 2021-02-25 03:20 Z](#forecast-at-2021-02-25-0320-z)
 	* [VONA bulletins](#vona-bulletins)
 
 # Input data
@@ -157,6 +158,40 @@ Contents
 ### Atmosphere 2021-02-25 00:20 Z
   
 ![](./probability_air_2021_02_25_0020_scenario_1_conclev_2.png)
+## Forecast at 2021-02-25 03:20 Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|MER [kg/s¹] 95th perc|Mass in the air [kg] 95th perc|Mass on the ground [kg] 95th perc|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|2021-02-24 18:20:00|Ongoing|2021-02-25 03:20:00|Uniform [5000 m, 10000 m]|None|1.18e+09|3.20e+09|
+  
+
+### Ground 2021-02-25 03:20 Z
+  
+![](./probability_grd_2021_02_25_0320_scenario_1.png)  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|0.00e+00|0.00e+00|0.00e+00|
+|Siracusa (2)|0.00e+00|0.00e+00|0.00e+00|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|0.00e+00|
+|Palermo AP (4)|0.00e+00|0.00e+00|1.30e-09|
+|Nicolosi (5)|1.17e-06|1.16e-04|5.07e-03|
+|Linguaglossa (6)|2.14e-09|2.04e-06|2.20e-05|
+|Randazzo (7)|1.87e-04|6.22e-03|3.79e-01|
+|Bronte (8)|3.92e-01|1.50e+00|5.31e+00|
+  
+
+### Atmosphere 2021-02-25 03:20 Z
+  
+![](./probability_air_2021_02_25_0320_scenario_1_conclev_2.png)
 ## VONA bulletins
   
 
