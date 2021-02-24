@@ -4,8 +4,11 @@ This repository provides volcanic ash hazards maps at Mt. Etna produced by numer
 
 The numerical procedure for ash forecast has been developed at INGV-Sezione di Pisa and it runs automatically and in real-time when bulletins reporting Mt. Etna explosive activity are released by The Etnean Observatory of INGV.
 
-* Bullet 1
-* Bullet 2
+* Numerical models used: eruptive column model PLUME-MoM-TSM coupled with the VATDM HYSPLIT
+* Meteo data:
+* Ensemble of simulations are performed and statistical ash hazard maps are produced
+  * The ensemble is created by defining probability distributions for  
+
   * Bullet 2a
   * Bullet 2b
 * Bullet 3
