@@ -4,16 +4,18 @@ This repository provides volcanic ash hazards maps at Mt. Etna produced by numer
 
 The numerical procedure for ash forecast has been developed at INGV-Sezione di Pisa and it runs automatically and in real-time when bulletins reporting Mt. Etna explosive activity are released by The Etnean Observatory of INGV.
 
+* Bullet 1
+* Bullet 2
+  * Bullet 2a
+  * Bullet 2b
+* Bullet 3
+
 |Parameters|Values|
 | :--- | :--- |
-|Ground hazard maps|Probability in % that the deposit load exceeds 1 kg/m² and 10 kg/m²|
-|Ground load at strategic locations|Probability density histograms of ground load in kg/m² at a number of locations. 95th percentile is also reported|
+|Numerical codes||
+|Meteo data|Probability density histograms of ground load in kg/m² at a number of locations. 95th percentile is also reported|
 |Atmospheric hazard maps|Probability in % that the ash concentration between differnt FL exceeds 2 g/m³|
 
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
 
 The numerical codes used are the eruptive column model PLUME-MoM-TSM and the VATDM HYSPLIT.
 
