@@ -4,12 +4,12 @@ This repository provides volcanic ash hazards maps at Mt. Etna produced by numer
 
 The numerical procedure for ash forecast has been developed at INGV-Sezione di Pisa and it runs automatically and in real-time when bulletins reporting Mt. Etna explosive activity are released by The Etnean Observatory of INGV.
 
-Here the main features of the forecast procedure:
+The main features of the forecast procedure are:
 
 * Numerical models used: eruptive column model PLUME-MoM-TSM coupled with the VATDM HYSPLIT
 * Meteo data:
 * Ensemble of simulations are performed and statistical ash hazard maps are produced
-  * The ensemble is created by defining probability distributions for  
+* The ensemble is created by considering uncertainties on the meteorologiacal data and eruptive source parameters (TGSD at the vent and column height). The uncertainty on the meteorological data is modelled by generating Nwind perturbed versions of a reference meteo data. Each perturbed meteo data derives from the original one by adding perturbations on wind intensity and direction. For the eruptive source parameters, we model as uncertain input variables the height of the eruptive column at the vent and the Total Grain Size Distribution (TGSD) defining the solid phase of the eruptive mixture. In particular, we assume that the TGSD is a lognormal one and thus the uncertain input parameters are the mean value and the standard deviation of the TGSD. The three uncertain input variables (i.e. column height, mean value of the TGSD and standard deviation) can be described with uniform or gaussian probability distributions. In the first case (uniform), the minimum and maximum values defining the bounds of the distribution can be chosen, while for the second case (gaussian), we specify mean value and standard deviation.
 
   * Bullet 2a
   * Bullet 2b
