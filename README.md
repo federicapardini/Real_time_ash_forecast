@@ -24,6 +24,7 @@ For each RED VONA, a total of 4 forecasts are provided at hours +3, +6, +9 and +
 
 Select the directory of interest (each directory is named as the RED VONA release time) and the file Supplementary_page.md to see the latest results.
 
+### Plese note that the numerical procedure is currently under development and daily updated
 
 
 
