@@ -72,7 +72,7 @@ Contents
 |Perturbation on horizontal wind intensity|Gaussian 1 ± 0.5m/s|
 |Number of eruptive scenarios|1|
 |Number of perturbed ESP per scenario|3|
-|Column height|Gaussian from VONA|
+|Column height|Uniform [5000 m, 10000 m]|
 |Total Grain Size Distribution|Gaussian μ = 2.3 ± 0.5 φ,  σ = 1.5 ± 0.5 φ|
 |Number of ensemble members per scenario|9|
   
