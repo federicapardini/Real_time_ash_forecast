@@ -24,10 +24,10 @@ For each RED VONA, a total of 4 forecasts are provided at hours +3, +6, +9 and +
 
 ### How to display the results
 
-* Select the directory of interest (each directory is named as the RED VONA time of issue). 
+* Select the directory of interest (each directory is named as the RED VONA time of issue)
     * The main results are in the file *README.md* which is automatically displayed by selecting the directory of interest. 
     * Additional information are in *Supplementaty_page.md*. 
-    * All the figures show in README.md and more are collected in the directoy *figures* and .txt files reporting the eruptive source parameters used in the simulations are in the directory *input_data* 
+    * All the figures show in *README.md* and more are collected in the directory *figures* and .txt files reporting the eruptive source parameters used in the simulations are in the directory *input_data* 
 
 ### Please note that the numerical procedure is currently under development and daily updated
 
