@@ -76,5 +76,5 @@ Contents
 |Total Grain Size Distribution|Gaussian μ = 2.3 ± 0.5 φ,  σ = 1.5 ± 0.5 φ|
 |Number of ensemble members per scenario|100|
   
-Go to [Main page](https://github.com/federicapardini/report/tree/main/20210223_0446Z)  
-Go to [Main directory](https://github.com/federicapardini/report)
+Go to [Main page](https://github.com/federicapardini/Real_time_ash_forecast/tree/main/20210223_0446Z)  
+Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)

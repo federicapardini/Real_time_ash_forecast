@@ -24,7 +24,7 @@ For each RED VONA, a total of 4 forecasts are provided at hours +3, +6, +9 and +
 
 ### How to display the results
 
-Select the directory of interest (each directory is named as the RED VONA release time) and the file Supplementary_page.md to see the latest results.
+Select the directory of interest (each directory is named as the RED VONA release time). The file README.md contains ash hazard maps and tables and it is automatically displayed. Additional information are contained in Supplementaty_page.md. All the figures are collected in the directoy figures and .txt files showing eruptive source parameters used are in the directory *input_data* and the file Supplementary_page.md to see the latest results.
 
 ### Please note that the numerical procedure is currently under development and daily updated
 

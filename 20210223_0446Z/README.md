@@ -198,4 +198,4 @@ Contents
   
 ![](./figures/probability_air_2021_02_23_1650_scenario_1_conclev_2.png)  
 Go to [Supplementary page](Supplementary_page.md)  
-Go to [Main directory](https://github.com/federicapardini/report)
+Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
