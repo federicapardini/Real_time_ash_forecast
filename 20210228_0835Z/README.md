@@ -16,9 +16,9 @@ Contents
 ## Forecast at 2021-02-28 11:40 Z
   
 
-|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [km]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 11:40:00|9 ± 1 km asl (from VONA)|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 11:40:00|9 ± 1 (from VONA)|
   
   
 
@@ -62,9 +62,9 @@ Contents
 ## Forecast at 2021-02-28 14:40 Z
   
 
-|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [km]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 14:40:00|9 ± 1 km asl (from VONA)|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 14:40:00|9 ± 1 (from VONA)|
   
   
 
@@ -108,9 +108,9 @@ Contents
 ## Forecast at 2021-02-28 17:40 Z
   
 
-|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [km]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 17:40:00|9 ± 1 km asl (from VONA)|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 17:40:00|9 ± 1 (from VONA)|
   
   
 
@@ -154,9 +154,9 @@ Contents
 ## Forecast at 2021-02-28 20:40 Z
   
 
-|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [km]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 20:40:00|9 ± 1 km asl (from VONA)|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 20:40:00|9 ± 1 (from VONA)|
   
   
 

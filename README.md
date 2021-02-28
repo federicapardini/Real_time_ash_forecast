@@ -10,7 +10,7 @@ The main features of the forecast procedure are:
 * Numerical models used: eruptive column model PLUME-MoM-TSM coupled with the VATDM HYSPLIT
 * Ensemble of simulations are performed and statistical ash hazard maps are produced
     * The ensemble is created by considering uncertainties on the meteorologiacal data and eruptive source parameters. The uncertainty on the meteorological data is modelled by generating Nwind perturbed versions of a reference meteo data. Each perturbed meteo data derives from the original one by adding perturbations on wind intensity and direction. For the eruptive source parameters, we model as uncertain input variables the height of the eruptive column at the vent and the Total Grain Size Distribution (TGSD) defining the solid phase of the eruptive mixture. In particular, we assume as uncertain parameters the mean value and the standard deviation defining the lognormal TGSD. The three uncertain input variables (i.e. column height, mean value of the TGSD and standard deviation) are described as probability distributions which can be uniform or gaussian. In the first case (uniform), the minimum and maximum values defining the bounds of the distribution are chosen, while for the second case (gaussian), we specify the mean value and the standard deviation. By sampling the three distributions, we produce Nesp possible eruptive scenarios that, combined with the Nwind meteo data, form a total of N (= Nwind * Nesp) simulations.
-* When a RED VONA bulletin is released, the N simulations are initialized at the VONA issued time and a continous ash emission lasting 12 h is simulated. In case a new VONA is issued, the numerical simulations are updated considering the latest information.
+* When a RED VONA bulletin is released, the N simulations are initialized at the VONA time of issue and a continous ash emission lasting 12 h is simulated. In case a new VONA is issued, the numerical simulations are updated considering the latest information.
 
 ### Forecast products
 
@@ -27,7 +27,7 @@ For each RED VONA, a total of 4 forecasts are provided at hours +3, +6, +9 and +
 * Select the directory of interest (each directory is named as the RED VONA time of issue)
     * The main results are in the file *README.md* which is automatically displayed by selecting the directory of interest. 
     * Additional information are in *Supplementaty_page.md*. 
-    * All the figures show in *README.md* and more are collected in the directory *figures* and .txt files reporting the eruptive source parameters used in the simulations are in the directory *input_data* 
+    * All the figures shown in *README.md* and more are collected in the directory *figures* and .txt files reporting the eruptive source parameters used in the simulations are in the directory *input_data* 
 
 ### Please note that the numerical procedure is currently under development and daily updated
 
