@@ -18,7 +18,7 @@ Contents
 
 |Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 11:40:00|Gaussian from VONA|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 11:40:00|9 ± 1 km asl (from VONA)|
   
   
 
@@ -64,7 +64,7 @@ Contents
 
 |Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 14:40:00|Gaussian from VONA|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 14:40:00|9 ± 1 km asl (from VONA)|
   
   
 
@@ -110,7 +110,7 @@ Contents
 
 |Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 17:40:00|Gaussian from VONA|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 17:40:00|9 ± 1 km asl (from VONA)|
   
   
 
@@ -156,7 +156,7 @@ Contents
 
 |Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
 | :--- | :--- | :--- | :--- |
-|2021-02-28 08:40:00|Ongoing|2021-02-28 20:40:00|Gaussian from VONA|
+|2021-02-28 08:40:00|Ongoing|2021-02-28 20:40:00|9 ± 1 km asl (from VONA)|
   
   
 
