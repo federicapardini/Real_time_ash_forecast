@@ -9,6 +9,7 @@ Contents
 	* [Forecast at 2021-02-28 11:40 Z](#forecast-at-2021-02-28-1140-z)
 	* [Forecast at 2021-02-28 14:40 Z](#forecast-at-2021-02-28-1440-z)
 	* [Forecast at 2021-02-28 17:40 Z](#forecast-at-2021-02-28-1740-z)
+	* [Forecast at 2021-02-28 20:40 Z](#forecast-at-2021-02-28-2040-z)
 
 # Forecast products
 
@@ -149,6 +150,52 @@ Contents
 
 ### Atmosphere 2021-02-28 17:40 Z
   
-![](./figures/probability_air_2021_02_28_1740_scenario_1_conclev_2.png)  
+![](./figures/probability_air_2021_02_28_1740_scenario_1_conclev_2.png)
+## Forecast at 2021-02-28 20:40 Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height distribution asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-28 08:40:00|Ongoing|2021-02-28 20:40:00|Gaussian from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|5.47e+04|8.06e+08|2.46e+09|
+|50th|2.26e+05|2.24e+09|1.05e+10|
+|95th|1.27e+06|1.02e+10|2.43e+10|
+  
+
+### Ground 2021-02-28 20:40 Z
+  
+![](./figures/probability_grd_2021_02_28_2040_scenario_1.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|1.79e-01|1.16e+00|3.77e+00|
+|Siracusa (2)|5.33e-03|6.57e-02|6.50e-01|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|1.00e-10|
+|Palermo AP (4)|0.00e+00|0.00e+00|1.61e-08|
+|Nicolosi (5)|4.74e-01|1.11e+00|3.40e+00|
+|Zafferana (6)|1.19e+00|5.49e+00|1.60e+01|
+|Linguaglossa (7)|3.35e-06|8.78e-04|2.45e-02|
+|Randazzo (8)|0.00e+00|1.39e-07|2.71e-04|
+|Bronte (9)|5.95e-10|4.34e-04|6.89e-03|
+|Biancavilla (10)|3.02e-03|4.11e-02|1.77e-01|
+  
+
+### Atmosphere 2021-02-28 20:40 Z
+  
+![](./figures/probability_air_2021_02_28_2040_scenario_1_conclev_2.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
