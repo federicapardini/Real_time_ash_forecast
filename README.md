@@ -18,10 +18,10 @@ For each RED VONA, a total of 4 forecasts are provided at hours +3, +6, +9 and +
 
 |Type of product|Description|
 | :--- | :--- |
-|**MER, Ash mass in the air, Ash mass on the ground**|Tables showing the 5th, 50th and 95th percentiles of MER [kg/s¹], Mass in the air [kg], Mass on the ground [kg]|
-|**Ground load at strategic locations**|Tables showing the ground load in kg/m² at a number of locations. For each location, we report 5th, 50th and 95th percentiles of the ground load distribution resulting from the simulations forming the ensemble|
-|**Ground hazard maps**|Probability in % that the deposit load exceeds 1 kg/m² and 10 kg/m²|
-|**Atmospheric hazard maps**|Probability in % that the ash concentration between differnt FL exceeds 0.1 g/m³|
+|MER, Ash mass in the air, Ash mass on the ground|Tables showing the 5th, 50th and 95th percentiles of MER [kg/s¹], Mass in the air [kg], Mass on the ground [kg]|
+|Ground load at strategic locations|Tables showing the ground load in kg/m² at a number of locations. For each location, we report 5th, 50th and 95th percentiles of the ground load distribution resulting from the simulations forming the ensemble|
+|Ground hazard maps|Probability in % that the deposit load exceeds 1 kg/m² and 10 kg/m²|
+|Atmospheric hazard maps|Probability in % that the ash concentration between differnt FL exceeds 0.1 g/m³|
 
 ### How to display the results
 * Go to FILES directory
