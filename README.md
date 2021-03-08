@@ -1,6 +1,6 @@
 # Real-time ash forecast at Mt. Etna (Italy)
 
-<img src="./Logo_INGV.png" width=150pt/>
+<img src="./figures/Logo_INGV.png" width=150pt/>
 
 This repository provides volcanic ash hazards maps at Mt. Etna produced by numerical simulations performed in real-time when explosive eruptions occur. The numerical procedure has been developed at INGV-Sezione di Pisa and it runs automatically and in real-time when bulletins reporting Mt. Etna explosive activity are released by The Etnean Observatory of INGV.
 
