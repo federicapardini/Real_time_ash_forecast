@@ -24,7 +24,7 @@ For each RED VONA, a total of 4 forecasts are provided at hours +3, +6, +9 and +
 |Atmospheric hazard maps|Probability in % that the ash concentration between differnt FL exceeds 0.1 g/m³|
 
 ### How to display the results
-* Go to FILES directory
+* Go to FORECAST_RESULTS directory
 * Select the directory of interest (each directory is named as the RED VONA time of issue)
     * The main results are in the file *README.md* which is automatically displayed by selecting the directory of interest. 
     * Additional information are in *Supplementaty_page.md*. 
