@@ -76,5 +76,5 @@ Contents
 |Total Grain Size Distribution|μ = [-3 φ, 2 φ], σ = [0.6 φ, 1.5 φ]|Uniform|
 |Number of ensemble members per scenario|100||
   
-Go to [Main page](https://github.com/federicapardini/Real_time_ash_forecast/FORECAST_RESULTS/tree/main/20210317_0226Z)  
+Go to [Main page](https://github.com/federicapardini/Real_time_ash_forecast/tree/main/FORECAST_RESULTS/20210317_0226Z)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
