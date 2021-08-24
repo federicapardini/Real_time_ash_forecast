@@ -1,0 +1,14 @@
+Sim. cycle     : 4
+Eruption start : 2021-08-24 10:30:00
+Eruption end   : 2021-08-24 22:30:00
+Runtime  start : 2021-08-24 19:30:00
+Runtime  end   : 2021-08-24 22:30:00
+
+Meteo data : 5
+Eruptive scenarios : 1
++---------+----------+-------------+
+|  H [m]* | MU [phi] | SIGMA [phi] |
++---------+----------+-------------+
+| 10248.0 |  -2.897  |    1.473    |
++---------+----------+-------------+
+* Plume height above sea level
