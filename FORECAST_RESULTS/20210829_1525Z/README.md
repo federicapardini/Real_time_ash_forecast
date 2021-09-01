@@ -10,6 +10,7 @@ Contents
 	* [Forecast at 2021-08-29 21:30 Z - Ongoing Eruption](#forecast-at-2021-08-29-2130-z---ongoing-eruption)
 	* [Forecast at 2021-08-30 00:30 Z - Ongoing Eruption](#forecast-at-2021-08-30-0030-z---ongoing-eruption)
 	* [Forecast at 2021-08-30 03:30 Z - Ongoing Eruption](#forecast-at-2021-08-30-0330-z---ongoing-eruption)
+	* [Forecast at 2021-08-30 06:30 Z - Ongoing Eruption](#forecast-at-2021-08-30-0630-z---ongoing-eruption)
 
 # Forecast products
 
@@ -196,6 +197,50 @@ Contents
 
 ### Atmosphere 2021-08-30 03:30 Z
   
-![](./figures/probability_air_2021_08_30_0330_scenario_1_conclev_1_4.png)  
+![](./figures/probability_air_2021_08_30_0330_scenario_1_conclev_1_4.png)
+## Forecast at 2021-08-30 06:30 Z - Ongoing Eruption
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-08-29 15:30:00|Ongoing|2021-08-30 06:30:00|[6000 m, 12000 m]|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|1.15e+05|1.01e+08|1.07e+10|
+|50th|4.61e+05|6.71e+08|3.13e+10|
+|95th|2.50e+06|9.06e+09|6.69e+10|
+  
+
+### Ground 2021-08-30 06:30 Z
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|3.78e-06|8.53e-04|2.17e-02|
+|Siracusa (2)|0.00e+00|1.12e-05|4.90e-04|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|7.81e-05|
+|Palermo AP (4)|0.00e+00|0.00e+00|0.00e+00|
+|Nicolosi (5)|3.70e-04|2.22e-03|1.63e-01|
+|Zafferana (6)|7.97e+00|2.53e+01|1.13e+02|
+|Linguaglossa (7)|2.05e-03|6.88e-02|1.54e+00|
+|Randazzo (8)|0.00e+00|0.00e+00|1.45e-05|
+|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (10)|0.00e+00|0.00e+00|1.20e-05|
+  
+
+### Atmosphere 2021-08-30 06:30 Z
+  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
