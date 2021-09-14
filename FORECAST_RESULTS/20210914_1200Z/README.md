@@ -22,6 +22,7 @@ Contents
 	* [Forecast at 2021-09-15 10:30 Z - Terminated Erupion from Orange VONA](#forecast-at-2021-09-15-1030-z---terminated-erupion-from-orange-vona)
 	* [Forecast at 2021-09-15 13:30 Z - Terminated Erupion from Orange VONA](#forecast-at-2021-09-15-1330-z---terminated-erupion-from-orange-vona)
 	* [Forecast at 2021-09-14 22:30 Z - Terminated Erupion from Orange VONA](#forecast-at-2021-09-14-2230-z---terminated-erupion-from-orange-vona)
+	* [Forecast at 2021-09-14 22:30 Z - Terminated Erupion from Orange VONA](#forecast-at-2021-09-14-2230-z---terminated-erupion-from-orange-vona)
 
 # Forecast products
 
@@ -701,6 +702,52 @@ Contents
 
 ### Atmosphere 2021-09-15 13:30 Z
 
+## Forecast at 2021-09-14 22:30 Z - Terminated Erupion from Orange VONA
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-09-14 12:00:00|2021-09-14 20:30:00|2021-09-14 22:30:00|9000.0 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|1.37e+05|4.24e+05|3.11e+09|
+|50th|2.62e+05|8.77e+07|5.66e+09|
+|95th|3.68e+05|3.49e+08|1.45e+10|
+  
+
+### Ground 2021-09-14 22:30 Z
+  
+![](./figures/probability_grd_2021_09_14_2230_scenario_1_1001.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|5.31e-01|3.46e+00|1.33e+01|
+|Siracusa (2)|0.00e+00|1.04e-01|2.18e+00|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|0.00e+00|
+|Palermo AP (4)|0.00e+00|0.00e+00|0.00e+00|
+|Nicolosi (5)|1.24e+00|5.02e+00|1.25e+01|
+|Zafferana (6)|6.89e-03|6.99e-01|6.24e+00|
+|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (9)|0.00e+00|0.00e+00|1.20e-05|
+|Biancavilla (10)|0.00e+00|3.42e-04|7.30e-03|
+  
+
+### Atmosphere 2021-09-14 22:30 Z
+  
+![](./figures/probability_air_2021_09_14_2230_scenario_1_conclev_1_1001.png)
 ## Forecast at 2021-09-14 22:30 Z - Terminated Erupion from Orange VONA
   
 
