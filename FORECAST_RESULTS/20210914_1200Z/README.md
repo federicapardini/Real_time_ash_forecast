@@ -17,6 +17,7 @@ Contents
 	* [Forecast at 2021-09-15 04:30 Z - Ongoing Eruption](#forecast-at-2021-09-15-0430-z---ongoing-eruption)
 	* [Forecast at 2021-09-15 07:30 Z - Ongoing Eruption](#forecast-at-2021-09-15-0730-z---ongoing-eruption)
 	* [Forecast at 2021-09-15 07:30 Z - Terminated Erupion from Orange VONA](#forecast-at-2021-09-15-0730-z---terminated-erupion-from-orange-vona)
+	* [Forecast at 2021-09-15 07:30 Z - Terminated Erupion from Orange VONA](#forecast-at-2021-09-15-0730-z---terminated-erupion-from-orange-vona)
 
 # Forecast products
 
@@ -438,6 +439,50 @@ Contents
 |Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
 | :--- | :--- | :--- | :--- |
 |2021-09-14 12:00:00|Ongoing|2021-09-15 07:30:00|9000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|1.60e+05|0.00e+00|5.64e+09|
+|50th|3.17e+05|0.00e+00|8.14e+09|
+|95th|5.04e+05|0.00e+00|1.81e+10|
+  
+
+### Ground 2021-09-15 07:30 Z
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|2.23e+00|6.09e+00|1.56e+01|
+|Siracusa (2)|5.92e-06|2.06e-01|2.29e+00|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|0.00e+00|
+|Palermo AP (4)|0.00e+00|0.00e+00|0.00e+00|
+|Nicolosi (5)|2.61e+00|7.56e+00|1.54e+01|
+|Zafferana (6)|1.73e-01|1.07e+00|7.38e+00|
+|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (9)|0.00e+00|0.00e+00|1.20e-05|
+|Biancavilla (10)|0.00e+00|6.26e-04|6.46e-03|
+  
+
+### Atmosphere 2021-09-15 07:30 Z
+
+## Forecast at 2021-09-15 07:30 Z - Terminated Erupion from Orange VONA
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-09-14 12:00:00|2021-09-15 05:30:00|2021-09-15 07:30:00|9000.0 ± 500 - from VONA|
   
   
 
