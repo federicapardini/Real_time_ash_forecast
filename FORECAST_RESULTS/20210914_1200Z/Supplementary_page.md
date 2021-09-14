@@ -73,7 +73,7 @@ Contents
 |Number of eruptive scenarios|1||
 |Number of perturbed ESP per scenario|10||
 |Column height|[6000 m, 12000 m]|Uniform|
-|Total Grain Size Distribution|μ = [-3 φ, 2 φ], σ = [0.6 φ, 1.5 φ]|Uniform|
+|Total Grain Size Distribution|μ = [-1.5 φ, 2 φ], σ = [0.8 φ, 3.6 φ]|Uniform|
 |Number of ensemble members per scenario|50||
   
 Go to [Main page](https://github.com/federicapardini/Real_time_ash_forecast/tree/main/FORECAST_RESULTS/20210914_1200Z)  
