@@ -1,0 +1,60 @@
+
+Forecast from VONA bulletin - 20210216_1631Z
+============================================
+
+Contents
+========
+
+* [Forecast products](#forecast-products)
+	* [Forecast at 2021-02-16 19:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-1930-z---ongoing-eruption)
+
+# Forecast products
+
+## Forecast at 2021-02-16 19:30 Z - Ongoing Eruption
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-16 19:30:00|6000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|1.81e+04|9.01e+06|1.70e+08|
+|50th|7.56e+04|9.31e+07|6.74e+08|
+|95th|1.96e+05|4.10e+08|1.68e+09|
+  
+
+### Ground 2021-02-16 19:30 Z
+  
+![](./figures/probability_grd_2021_02_16_1930_scenario_1_1.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|5.29e-04|2.70e-01|4.81e+00|
+|Siracusa (2)|0.00e+00|0.00e+00|1.30e-02|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|0.00e+00|
+|Palermo AP (4)|0.00e+00|0.00e+00|0.00e+00|
+|Nicolosi (5)|3.39e-02|1.96e+00|5.95e+00|
+|Zafferana (6)|0.00e+00|0.00e+00|4.25e-01|
+|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (10)|0.00e+00|0.00e+00|2.72e-06|
+  
+
+### Atmosphere 2021-02-16 19:30 Z
+  
+![](./figures/probability_air_2021_02_16_1930_scenario_1_conclev_1_1.png)  
+Go to [Supplementary page](Supplementary_page.md)  
+Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
