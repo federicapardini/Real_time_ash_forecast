@@ -7,6 +7,7 @@ Contents
 
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-02-16 19:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-1930-z---ongoing-eruption)
+	* [Forecast at 2021-02-16 22:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-2230-z---ongoing-eruption)
 
 # Forecast products
 
@@ -60,6 +61,56 @@ Contents
 
 ### Atmosphere 2021-02-16 19:30 Z
   
-![](./figures/probability_air_2021_02_16_1930_scenario_1_conclev_1_1.png)  
+![](./figures/probability_air_2021_02_16_1930_scenario_1_conclev_1_1.png)
+## Forecast at 2021-02-16 22:30 Z - Ongoing Eruption
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-16 22:30:00|6000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|2.46e+04|4.60e+07|6.33e+08|
+|50th|7.39e+04|1.42e+08|1.38e+09|
+|95th|1.52e+05|2.45e+08|2.52e+09|
+  
+
+### Ground 2021-02-16 22:30 Z
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Schiena Asino (1)|4.10e-01|1.72e+00|3.72e+00|
+|Rif.Vescovo (2)|4.40e-01|1.78e+00|5.02e+00|
+|Serra Pituzza (3)|5.70e-01|2.14e+00|4.65e+00|
+|Monterosso (4)|6.22e-01|1.79e+00|7.61e+00|
+|Cim.Pedara (5)|2.82e+00|5.45e+00|1.12e+01|
+|Cim.Viagrande (6)|2.79e-02|2.63e-01|7.94e+00|
+|Cim.Mascalucia (7)|1.74e-01|4.33e+00|1.46e+01|
+|Cim.Tremestieri (8)|5.92e-01|3.42e+00|7.83e+00|
+|Cim.S.Giov.La Punta (9)|2.75e-01|1.45e+00|7.46e+00|
+|Cim.Gravina (10)|3.95e-01|3.74e+00|1.15e+01|
+|ENI S.Giov.Galermo (11)|5.05e-01|3.82e+00|1.40e+01|
+|Bio Piazza Europa (12)|8.20e-02|6.32e-01|2.23e+00|
+|INGV-OE (13)|1.93e-01|1.41e+00|7.51e+00|
+  
+
+### Atmosphere 2021-02-16 22:30 Z
+  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
