@@ -7,6 +7,7 @@ Contents
 
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-02-16 19:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-1930-z---ongoing-eruption)
+	* [Forecast at 2021-02-16 22:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-2230-z---ongoing-eruption)
 
 # Forecast products
 
@@ -61,6 +62,58 @@ Contents
 
 ### Atmosphere 2021-02-16 19:30 Z
   
-![](./figures/probability_air_2021_02_16_1930_scenario_1_conclev_1_1.png)  
+![](./figures/probability_air_2021_02_16_1930_scenario_1_conclev_1_1.png)
+## Forecast at 2021-02-16 22:30 Z - Ongoing Eruption
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-16 22:30:00|6000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass in the air [kg]|Mass on the ground [kg]|
+| :--- | :--- | :--- | :--- |
+|5th|2.46e+04|4.24e+07|6.19e+08|
+|50th|7.39e+04|1.33e+08|1.40e+09|
+|95th|1.52e+05|2.15e+08|2.52e+09|
+  
+
+### Ground 2021-02-16 22:30 Z
+  
+![](./figures/probability_grd_2021_02_16_2230_scenario_1_2.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Schiena Asino (1)|4.36e-01|1.51e+00|4.45e+00|
+|Rif.Vescovo (2)|4.30e-01|1.68e+00|5.46e+00|
+|Serra Pituzza (3)|5.18e-01|1.96e+00|5.78e+00|
+|Monterosso (4)|4.94e-01|1.43e+00|8.36e+00|
+|Cim.Pedara (5)|2.85e+00|6.33e+00|1.08e+01|
+|Cim.Viagrande (6)|2.68e-02|2.28e-01|7.71e+00|
+|Cim.Mascalucia (7)|2.43e-01|3.58e+00|1.47e+01|
+|Cim.Tremestieri (8)|4.53e-01|3.19e+00|7.40e+00|
+|Cim.S.Giov.La Punta (9)|1.11e-01|1.41e+00|5.44e+00|
+|Cim.Gravina (10)|3.95e-01|3.19e+00|1.23e+01|
+|ENI S.Giov.Galermo (11)|4.16e-01|1.88e+00|1.68e+01|
+|Bio Piazza Europa (12)|8.07e-02|4.90e-01|2.08e+00|
+|INGV-OE (13)|1.70e-01|6.91e-01|8.27e+00|
+  
+
+### Atmosphere 2021-02-16 22:30 Z
+  
+![](./figures/probability_air_2021_02_16_2230_scenario_1_conclev_1_2.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
