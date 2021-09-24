@@ -7,6 +7,7 @@ Contents
 
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-02-16 19:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-1930-z---ongoing-eruption)
+	* [Forecast at 2021-02-16 22:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-2230-z---ongoing-eruption)
 
 # Forecast products
 
@@ -61,6 +62,58 @@ Contents
 
 ### Atmosphere 2021-02-16 19:30 Z
   
-![](./figures/probability_air_2021_02_16_1930_scenario_2_conclev_1_1.png)  
+![](./figures/probability_air_2021_02_16_1930_scenario_2_conclev_1_1.png)
+## Forecast at 2021-02-16 22:30 Z - Ongoing Eruption
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-16 22:30:00|6000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|1.79e+04|1.56e+08|6.04e+07|2.07e+08|1.67e+08|
+|50th|6.00e+04|5.02e+08|1.75e+08|6.38e+08|3.75e+08|
+|95th|1.65e+05|1.17e+09|3.13e+08|1.14e+09|3.13e+08|
+  
+
+### Ground Nested Domain 2021-02-16 22:30 Z
+  
+![](./figures/probability_grd_2021_02_16_2230_scenario_1_2.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Schiena Asino (1)|0.00e+00|1.92e-01|6.80e+00|
+|Rif.Vescovo (2)|0.00e+00|2.00e-01|8.87e+00|
+|Serra Pituzza (3)|0.00e+00|3.04e-01|9.92e+00|
+|Monterosso (4)|1.44e-03|1.30e-01|1.78e+00|
+|Cim.Pedara (5)|1.58e-01|1.44e+00|4.55e+00|
+|Cim.Viagrande (6)|1.19e-02|2.28e-01|1.13e+00|
+|Cim.Mascalucia (7)|1.00e-01|1.07e+00|4.38e+00|
+|Cim.Tremestieri (8)|6.54e-02|6.39e-01|2.38e+00|
+|Cim.S.Giov.La Punta (9)|3.58e-02|4.03e-01|2.07e+00|
+|Cim.Gravina (10)|1.28e-01|7.84e-01|4.24e+00|
+|ENI S.Giov.Galermo (11)|2.52e-02|1.05e+00|3.11e+00|
+|Bio Piazza Europa (12)|4.17e-02|3.16e-01|2.12e+00|
+|INGV-OE (13)|3.68e-02|4.55e-01|2.85e+00|
+  
+
+### Atmosphere 2021-02-16 22:30 Z
+  
+![](./figures/probability_air_2021_02_16_2230_scenario_2_conclev_1_2.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
