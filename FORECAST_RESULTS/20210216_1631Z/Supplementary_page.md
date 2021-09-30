@@ -46,7 +46,7 @@ Contents
 |Parameters|Values|
 | :--- | :--- |
 |Grid center lat|37.73°|
-|Grid center lon|15.0|
+|Grid center lon|15.0°|
 |Number of Hysplit grids|2|
 |Grid1||
 |Extension lat|0.5°|
