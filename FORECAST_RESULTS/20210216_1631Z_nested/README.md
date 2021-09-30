@@ -24,9 +24,9 @@ Contents
 
 |Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|5th|1.84e+04|1.13e+08|6.54e+07|8.13e+07|4.12e+07|
-|50th|6.17e+04|4.22e+08|1.84e+08|2.30e+08|1.81e+08|
-|95th|1.94e+05|1.19e+09|3.30e+08|6.42e+08|3.30e+08|
+|5th|1.34e+04|0.00e+00|2.56e+07|0.00e+00|1.27e+08|
+|50th|7.39e+04|0.00e+00|1.12e+08|0.00e+00|4.67e+08|
+|95th|1.65e+05|0.00e+00|2.88e+08|0.00e+00|2.88e+08|
   
 
 ### Ground Nested Domain 2021-02-16 19:30 Z
@@ -47,24 +47,24 @@ Contents
 
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
-|Schiena Asino (1)|0.00e+00|2.44e-05|4.88e+00|
-|Rif.Vescovo (2)|0.00e+00|3.93e-05|5.00e+00|
-|Serra Pituzza (3)|0.00e+00|3.90e-05|7.62e+00|
-|Monterosso (4)|0.00e+00|3.62e-04|1.16e+00|
-|Cim.Pedara (5)|1.02e-03|4.57e-01|4.64e+00|
-|Cim.Viagrande (6)|6.57e-04|4.47e-03|1.51e+00|
-|Cim.Mascalucia (7)|9.12e-03|3.71e-01|3.25e+00|
-|Cim.Tremestieri (8)|3.88e-03|1.21e-01|2.41e+00|
-|Cim.S.Giov.La Punta (9)|1.68e-03|1.35e-01|2.58e+00|
-|Cim.Gravina (10)|9.91e-03|2.81e-01|2.95e+00|
-|ENI S.Giov.Galermo (11)|1.38e-02|2.22e-01|1.93e+00|
-|Bio Piazza Europa (12)|1.51e-03|1.69e-01|7.61e-01|
-|INGV-OE (13)|9.96e-03|1.56e-01|7.48e-01|
+|Schiena Asino (1)|0.00e+00|2.22e-05|7.61e+00|
+|Rif.Vescovo (2)|0.00e+00|5.98e-05|7.08e+00|
+|Serra Pituzza (3)|0.00e+00|1.28e-04|1.15e+01|
+|Monterosso (4)|0.00e+00|4.07e-04|2.35e+00|
+|Cim.Pedara (5)|1.01e-03|4.98e-01|6.79e+00|
+|Cim.Viagrande (6)|6.98e-05|7.21e-03|1.39e+00|
+|Cim.Mascalucia (7)|3.66e-03|8.95e-01|6.76e+00|
+|Cim.Tremestieri (8)|4.79e-03|2.92e-01|4.76e+00|
+|Cim.S.Giov.La Punta (9)|1.52e-03|6.60e-02|4.65e+00|
+|Cim.Gravina (10)|4.96e-03|6.70e-01|6.30e+00|
+|ENI S.Giov.Galermo (11)|1.11e-03|6.63e-01|6.68e+00|
+|Bio Piazza Europa (12)|4.95e-03|2.93e-01|2.40e+00|
+|INGV-OE (13)|1.79e-03|4.00e-01|4.96e+00|
   
 
 ### Atmosphere 2021-02-16 19:30 Z
   
-![](./figures/probability_air_2021_02_16_1930_scenario_2_conclev_1_1.png)
+![](./figures/probability_air_2021_02_16_1930_scenario_1_conclev_1_1.png)
 ## Forecast at 2021-02-16 22:30 Z - Ongoing Eruption
   
 
@@ -76,9 +76,9 @@ Contents
 
 |Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|5th|1.53e+04|1.82e+08|7.30e+07|2.58e+08|2.40e+08|
-|50th|5.79e+04|5.23e+08|1.96e+08|5.45e+08|4.41e+08|
-|95th|1.62e+05|1.26e+09|2.85e+08|1.29e+09|2.85e+08|
+|5th|8.02e+03|0.00e+00|3.85e+07|0.00e+00|3.32e+08|
+|50th|7.79e+04|0.00e+00|1.13e+08|0.00e+00|9.88e+08|
+|95th|1.54e+05|0.00e+00|2.16e+08|0.00e+00|2.16e+08|
   
 
 ### Ground Nested Domain 2021-02-16 22:30 Z
@@ -99,24 +99,24 @@ Contents
 
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
-|Schiena Asino (1)|8.45e-06|6.04e-01|6.37e+00|
-|Rif.Vescovo (2)|2.06e-05|7.62e-01|5.72e+00|
-|Serra Pituzza (3)|1.62e-05|9.14e-01|9.93e+00|
-|Monterosso (4)|6.92e-04|5.14e-02|1.45e+00|
-|Cim.Pedara (5)|1.95e-02|1.21e+00|6.39e+00|
-|Cim.Viagrande (6)|7.25e-03|6.37e-02|2.16e+00|
-|Cim.Mascalucia (7)|9.96e-02|1.23e+00|5.20e+00|
-|Cim.Tremestieri (8)|8.63e-02|1.20e+00|3.31e+00|
-|Cim.S.Giov.La Punta (9)|2.07e-02|3.42e-01|5.04e+00|
-|Cim.Gravina (10)|7.18e-02|7.60e-01|5.80e+00|
-|ENI S.Giov.Galermo (11)|7.68e-02|1.07e+00|4.78e+00|
-|Bio Piazza Europa (12)|7.07e-02|5.24e-01|1.69e+00|
-|INGV-OE (13)|5.67e-02|6.08e-01|2.29e+00|
+|Schiena Asino (1)|0.00e+00|2.27e-03|8.00e+00|
+|Rif.Vescovo (2)|0.00e+00|4.75e-01|6.84e+00|
+|Serra Pituzza (3)|0.00e+00|1.47e-01|1.19e+01|
+|Monterosso (4)|3.73e-05|1.17e-01|5.77e+00|
+|Cim.Pedara (5)|1.80e-01|3.72e+00|1.05e+01|
+|Cim.Viagrande (6)|1.75e-03|3.94e-01|3.63e+00|
+|Cim.Mascalucia (7)|1.51e-01|2.17e+00|8.14e+00|
+|Cim.Tremestieri (8)|1.06e-01|1.59e+00|6.71e+00|
+|Cim.S.Giov.La Punta (9)|3.42e-02|8.82e-01|1.00e+01|
+|Cim.Gravina (10)|2.05e-01|2.07e+00|9.26e+00|
+|ENI S.Giov.Galermo (11)|1.04e-01|2.24e+00|1.40e+01|
+|Bio Piazza Europa (12)|9.54e-02|8.32e-01|4.58e+00|
+|INGV-OE (13)|9.52e-02|1.86e+00|7.15e+00|
   
 
 ### Atmosphere 2021-02-16 22:30 Z
   
-![](./figures/probability_air_2021_02_16_2230_scenario_2_conclev_1_2.png)
+![](./figures/probability_air_2021_02_16_2230_scenario_1_conclev_1_2.png)
 ## Forecast at 2021-02-17 01:30 Z - Ongoing Eruption
   
 
@@ -128,9 +128,9 @@ Contents
 
 |Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|5th|1.48e+04|1.72e+08|8.40e+07|5.42e+08|4.55e+08|
-|50th|5.27e+04|5.21e+08|1.80e+08|8.58e+08|6.32e+08|
-|95th|1.30e+05|9.81e+08|3.01e+08|1.98e+09|3.01e+08|
+|5th|1.69e+04|0.00e+00|4.95e+07|0.00e+00|8.71e+08|
+|50th|6.05e+04|0.00e+00|1.09e+08|0.00e+00|1.52e+09|
+|95th|1.70e+05|0.00e+00|2.17e+08|0.00e+00|2.17e+08|
   
 
 ### Ground Nested Domain 2021-02-17 01:30 Z
@@ -151,24 +151,24 @@ Contents
 
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
-|Schiena Asino (1)|2.09e-02|2.15e+00|9.95e+00|
-|Rif.Vescovo (2)|4.15e-02|1.48e+00|1.27e+01|
-|Serra Pituzza (3)|3.61e-02|3.13e+00|1.48e+01|
-|Monterosso (4)|1.53e-02|8.06e-01|2.04e+00|
-|Cim.Pedara (5)|4.31e-01|2.72e+00|7.68e+00|
-|Cim.Viagrande (6)|8.03e-02|5.70e-01|3.34e+00|
-|Cim.Mascalucia (7)|7.52e-01|2.25e+00|5.80e+00|
-|Cim.Tremestieri (8)|4.09e-01|2.35e+00|3.91e+00|
-|Cim.S.Giov.La Punta (9)|2.99e-01|9.35e-01|5.77e+00|
-|Cim.Gravina (10)|7.44e-01|2.08e+00|5.98e+00|
-|ENI S.Giov.Galermo (11)|1.14e-01|1.42e+00|5.01e+00|
-|Bio Piazza Europa (12)|4.22e-01|9.49e-01|1.86e+00|
-|INGV-OE (13)|2.55e-01|9.54e-01|3.02e+00|
+|Schiena Asino (1)|4.74e-04|2.41e+00|8.95e+00|
+|Rif.Vescovo (2)|6.02e-04|2.93e+00|1.31e+01|
+|Serra Pituzza (3)|6.66e-04|3.65e+00|1.27e+01|
+|Monterosso (4)|6.45e-02|1.04e+00|5.72e+00|
+|Cim.Pedara (5)|1.43e+00|5.99e+00|1.83e+01|
+|Cim.Viagrande (6)|1.68e-01|7.85e-01|3.64e+00|
+|Cim.Mascalucia (7)|1.03e+00|6.01e+00|1.15e+01|
+|Cim.Tremestieri (8)|5.26e-01|4.15e+00|7.79e+00|
+|Cim.S.Giov.La Punta (9)|2.06e-01|1.57e+00|1.06e+01|
+|Cim.Gravina (10)|5.01e-01|4.32e+00|1.26e+01|
+|ENI S.Giov.Galermo (11)|1.19e+00|3.45e+00|1.46e+01|
+|Bio Piazza Europa (12)|2.23e-01|1.84e+00|4.94e+00|
+|INGV-OE (13)|4.19e-01|2.90e+00|1.07e+01|
   
 
 ### Atmosphere 2021-02-17 01:30 Z
   
-![](./figures/probability_air_2021_02_17_0130_scenario_2_conclev_1_3.png)
+![](./figures/probability_air_2021_02_17_0130_scenario_1_conclev_1_3.png)
 ## Forecast at 2021-02-17 04:30 Z - Ongoing Eruption
   
 
@@ -180,9 +180,9 @@ Contents
 
 |Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|5th|2.10e+04|2.27e+08|9.39e+07|7.86e+08|5.68e+08|
-|50th|5.27e+04|6.19e+08|2.11e+08|1.25e+09|8.25e+08|
-|95th|1.86e+05|1.02e+09|3.50e+08|2.72e+09|3.50e+08|
+|5th|1.38e+04|0.00e+00|3.55e+07|0.00e+00|1.14e+09|
+|50th|6.64e+04|0.00e+00|1.17e+08|0.00e+00|1.88e+09|
+|95th|1.14e+05|0.00e+00|2.56e+08|0.00e+00|2.56e+08|
   
 
 ### Ground Nested Domain 2021-02-17 04:30 Z
@@ -203,23 +203,23 @@ Contents
 
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
-|Schiena Asino (1)|4.12e-01|2.82e+00|1.30e+01|
-|Rif.Vescovo (2)|2.82e-01|3.82e+00|1.52e+01|
-|Serra Pituzza (3)|6.54e-01|4.38e+00|1.94e+01|
-|Monterosso (4)|6.16e-02|1.33e+00|3.18e+00|
-|Cim.Pedara (5)|5.57e-01|4.49e+00|9.38e+00|
-|Cim.Viagrande (6)|2.73e-01|1.27e+00|3.51e+00|
-|Cim.Mascalucia (7)|1.34e+00|3.11e+00|8.05e+00|
-|Cim.Tremestieri (8)|6.71e-01|3.49e+00|6.27e+00|
-|Cim.S.Giov.La Punta (9)|3.39e-01|1.97e+00|5.47e+00|
-|Cim.Gravina (10)|1.28e+00|3.09e+00|7.86e+00|
-|ENI S.Giov.Galermo (11)|6.82e-01|2.15e+00|6.08e+00|
-|Bio Piazza Europa (12)|4.11e-01|1.36e+00|3.54e+00|
-|INGV-OE (13)|3.61e-01|1.22e+00|4.41e+00|
+|Schiena Asino (1)|4.74e-04|3.15e+00|1.02e+01|
+|Rif.Vescovo (2)|6.02e-04|4.92e+00|1.54e+01|
+|Serra Pituzza (3)|6.66e-04|5.96e+00|1.51e+01|
+|Monterosso (4)|2.57e-01|1.96e+00|5.91e+00|
+|Cim.Pedara (5)|5.31e+00|9.06e+00|2.20e+01|
+|Cim.Viagrande (6)|4.67e-01|1.41e+00|8.69e+00|
+|Cim.Mascalucia (7)|1.07e+00|7.74e+00|1.39e+01|
+|Cim.Tremestieri (8)|1.26e+00|5.09e+00|1.22e+01|
+|Cim.S.Giov.La Punta (9)|1.07e+00|2.71e+00|1.44e+01|
+|Cim.Gravina (10)|5.73e-01|8.16e+00|1.37e+01|
+|ENI S.Giov.Galermo (11)|1.49e+00|5.62e+00|1.61e+01|
+|Bio Piazza Europa (12)|2.92e-01|3.64e+00|7.00e+00|
+|INGV-OE (13)|7.61e-01|4.54e+00|1.33e+01|
   
 
 ### Atmosphere 2021-02-17 04:30 Z
   
-![](./figures/probability_air_2021_02_17_0430_scenario_2_conclev_1_4.png)  
+![](./figures/probability_air_2021_02_17_0430_scenario_1_conclev_1_4.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)

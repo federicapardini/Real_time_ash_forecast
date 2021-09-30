@@ -70,10 +70,10 @@ Contents
 |Number of perturbed meteo data|16||
 |Perturbation on horizontal wind direction |0 ± 15°|Gaussian|
 |Perturbation on horizontal wind intensity|1 ± 0.5m/s|Gaussian|
-|Number of eruptive scenarios|2||
+|Number of eruptive scenarios|1||
 |Number of perturbed ESP per scenario|16||
 |Column height|6000 ± 500 - from VONA|Gaussian|
-|Total Grain Size Distribution|μ = [-1.5 φ, 2 φ], σ = [0.8 φ, 3.6 φ]|Uniform|
+|Total Grain Size Distribution|μ = [-4 φ, 0 φ], σ = [0.5 φ, 1.5 φ]|Uniform|
 |Number of ensemble members per scenario|16||
   
 Go to [Main page](https://github.com/federicapardini/Real_time_ash_forecast/tree/main/FORECAST_RESULTS/20210216_1631Z)  
