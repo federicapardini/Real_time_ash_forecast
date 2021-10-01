@@ -8,6 +8,7 @@ Contents
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-02-16 19:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-1930-z---ongoing-eruption)
 	* [Forecast at 2021-02-16 22:30 Z - Ongoing Eruption](#forecast-at-2021-02-16-2230-z---ongoing-eruption)
+	* [Forecast at 2021-02-17 01:30 Z - Ongoing Eruption](#forecast-at-2021-02-17-0130-z---ongoing-eruption)
 
 # Forecast products
 
@@ -114,6 +115,58 @@ Contents
 
 ### Atmosphere 2021-02-16 22:30 Z
   
-![](./figures/probability_air_2021_02_16_2230_grid_2_conclev_1_2.png)  
+![](./figures/probability_air_2021_02_16_2230_grid_2_conclev_1_2.png)
+## Forecast at 2021-02-17 01:30 Z - Ongoing Eruption
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-17 01:30:00|6000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|1.80e+04|4.95e+08|1.12e+08|1.61e+08|1.06e+08|
+|50th|4.93e+04|1.28e+09|2.07e+08|4.15e+08|2.82e+08|
+|95th|2.01e+05|1.69e+09|3.08e+08|8.03e+08|3.08e+08|
+  
+
+### Ground Nested Domain 2021-02-17 01:30 Z
+  
+![](./figures/probability_grd_2021_02_17_0130_grid_1_3.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Schiena Asino (1)|1.58e-03|1.95e-01|2.89e+00|
+|Rif.Vescovo (2)|3.11e-03|2.07e-01|4.90e+00|
+|Serra Pituzza (3)|2.60e-03|6.98e-01|3.95e+00|
+|Monterosso (4)|3.07e-02|2.30e-01|5.64e+00|
+|Cim.Pedara (5)|4.19e-02|1.91e+00|4.45e+00|
+|Cim.Viagrande (6)|4.28e-02|2.53e-01|1.67e+00|
+|Cim.Mascalucia (7)|7.24e-02|5.00e-01|1.88e+00|
+|Cim.Tremestieri (8)|7.62e-02|3.47e-01|1.42e+00|
+|Cim.S.Giov.La Punta (9)|4.54e-02|2.52e-01|1.37e+00|
+|Cim.Gravina (10)|1.00e-01|4.27e-01|1.68e+00|
+|ENI S.Giov.Galermo (11)|3.77e-02|2.67e-01|1.19e+00|
+|Bio Piazza Europa (12)|3.53e-02|1.40e-01|7.27e-01|
+|INGV-OE (13)|1.65e-02|1.69e-01|7.51e-01|
+  
+
+### Atmosphere 2021-02-17 01:30 Z
+  
+![](./figures/probability_air_2021_02_17_0130_grid_2_conclev_1_3.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
