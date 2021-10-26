@@ -8,6 +8,7 @@ Contents
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-10-23 09:40 Z from RED VONA issued at 20211023_0839Z](#forecast-at-2021-10-23-0940-z-from-red-vona-issued-at-20211023_0839z)
 	* [Forecast at 2021-10-23 10:40 Z from RED VONA issued at 20211023_0839Z](#forecast-at-2021-10-23-1040-z-from-red-vona-issued-at-20211023_0839z)
+	* [Forecast at 2021-10-23 11:40 Z from RED VONA issued at 20211023_0839Z](#forecast-at-2021-10-23-1140-z-from-red-vona-issued-at-20211023_0839z)
 
 # Forecast products
 
@@ -102,6 +103,52 @@ Contents
 
 ### Atmosphere 2021-10-23 10:40 Z
   
-![](./figures/probability_air_2021_10_23_1040_grid_2_conclev_1_2.png)  
+![](./figures/probability_air_2021_10_23_1040_grid_2_conclev_1_2.png)
+## Forecast at 2021-10-23 11:40 Z from RED VONA issued at 20211023_0839Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-10-23 08:40:00|Ongoing|2021-10-23 11:40:00|5000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|1.82e+03|6.49e+06|6.49e+06|6.49e+07|6.49e+07|
+|50th|1.35e+04|1.24e+07|1.23e+07|1.76e+08|1.76e+08|
+|95th|7.25e+04|8.08e+07|8.04e+07|4.02e+08|4.02e+08|
+  
+
+### Ground Nested Domain 2021-10-23 11:40 Z
+  
+![](./figures/probability_grd_2021_10_23_1140_grid_1_3.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|0.00e+00|0.00e+00|0.00e+00|
+|Siracusa (2)|0.00e+00|0.00e+00|0.00e+00|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|0.00e+00|
+|Palermo AP (4)|nan|nan|nan|
+|Nicolosi (5)|0.00e+00|0.00e+00|0.00e+00|
+|Zafferana (6)|0.00e+00|0.00e+00|0.00e+00|
+|Linguaglossa (7)|1.98e-04|4.46e-02|4.02e-01|
+|Randazzo (8)|0.00e+00|1.83e-05|2.77e-03|
+|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (10)|0.00e+00|0.00e+00|0.00e+00|
+  
+
+### Atmosphere 2021-10-23 11:40 Z
+  
+![](./figures/probability_air_2021_10_23_1140_grid_2_conclev_1_3.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
