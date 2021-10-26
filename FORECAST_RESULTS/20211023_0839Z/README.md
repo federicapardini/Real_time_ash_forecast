@@ -7,6 +7,7 @@ Contents
 
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-10-23 09:40 Z from RED VONA issued at 20211023_0839Z](#forecast-at-2021-10-23-0940-z-from-red-vona-issued-at-20211023_0839z)
+	* [Forecast at 2021-10-23 10:40 Z from RED VONA issued at 20211023_0839Z](#forecast-at-2021-10-23-1040-z-from-red-vona-issued-at-20211023_0839z)
 
 # Forecast products
 
@@ -55,6 +56,52 @@ Contents
 
 ### Atmosphere 2021-10-23 09:40 Z
   
-![](./figures/probability_air_2021_10_23_0940_grid_2_conclev_1_1.png)  
+![](./figures/probability_air_2021_10_23_0940_grid_2_conclev_1_1.png)
+## Forecast at 2021-10-23 10:40 Z from RED VONA issued at 20211023_0839Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-10-23 08:40:00|Ongoing|2021-10-23 10:40:00|5000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|6.31e+02|1.15e+06|1.15e+06|2.64e+07|2.64e+07|
+|50th|1.46e+04|1.63e+07|1.63e+07|1.14e+08|1.14e+08|
+|95th|6.24e+04|5.56e+07|5.55e+07|2.44e+08|2.44e+08|
+  
+
+### Ground Nested Domain 2021-10-23 10:40 Z
+  
+![](./figures/probability_grd_2021_10_23_1040_grid_1_2.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|0.00e+00|0.00e+00|0.00e+00|
+|Siracusa (2)|0.00e+00|0.00e+00|0.00e+00|
+|Reggio Calabria AP (3)|0.00e+00|0.00e+00|0.00e+00|
+|Palermo AP (4)|nan|nan|nan|
+|Nicolosi (5)|0.00e+00|0.00e+00|0.00e+00|
+|Zafferana (6)|0.00e+00|0.00e+00|0.00e+00|
+|Linguaglossa (7)|0.00e+00|2.60e-02|2.06e-01|
+|Randazzo (8)|0.00e+00|0.00e+00|6.64e-04|
+|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (10)|0.00e+00|0.00e+00|0.00e+00|
+  
+
+### Atmosphere 2021-10-23 10:40 Z
+  
+![](./figures/probability_air_2021_10_23_1040_grid_2_conclev_1_2.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
