@@ -21,6 +21,7 @@ Contents
 	* [Forecast at 2021-03-04 20:00 Z from RED VONA issued at 20210304_0755Z](#forecast-at-2021-03-04-2000-z-from-red-vona-issued-at-20210304_0755z)
 	* [Forecast at 2021-03-04 09:20 Z from RED VONA issued at 20210304_0817Z](#forecast-at-2021-03-04-0920-z-from-red-vona-issued-at-20210304_0817z)
 	* [Forecast at 2021-03-04 10:20 Z from RED VONA issued at 20210304_0817Z](#forecast-at-2021-03-04-1020-z-from-red-vona-issued-at-20210304_0817z)
+	* [Forecast at 2021-03-04 11:20 Z from RED VONA issued at 20210304_0817Z](#forecast-at-2021-03-04-1120-z-from-red-vona-issued-at-20210304_0817z)
 
 # Forecast products
 
@@ -923,6 +924,66 @@ Contents
 
 ### Atmosphere 2021-03-04 10:20 Z
   
-![](./figures/probability_air_2021_03_04_1020_grid_2_conclev_1_1002.png)  
+![](./figures/probability_air_2021_03_04_1020_grid_2_conclev_1_1002.png)
+## Forecast at 2021-03-04 11:20 Z from RED VONA issued at 20210304_0817Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-03-04 02:30:00|Ongoing|2021-03-04 11:20:00|11000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|3.62e+05|8.76e+08|8.74e+08|3.14e+09|3.13e+09|
+|50th|8.83e+05|2.33e+09|2.07e+09|7.90e+09|7.88e+09|
+|95th|2.43e+06|5.03e+09|4.54e+09|1.37e+10|1.35e+10|
+  
+
+### Ground Nested Domain 2021-03-04 11:20 Z
+  
+![](./figures/probability_grd_2021_03_04_1120_grid_1_1003.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Piano Provenzana (1)|1.08e+01|1.87e+01|2.71e+01|
+|Bivio Provenzana-Linguaglossa (2)|1.26e+01|2.16e+01|3.16e+01|
+|Cunetta pre-Citelli (3)|1.29e+01|2.42e+01|3.20e+01|
+|Chalet (4)|9.13e+00|1.91e+01|3.25e+01|
+|Ragabo (5)|1.01e+01|1.94e+01|3.34e+01|
+|Scilio (6)|4.83e+00|1.46e+01|2.72e+01|
+|Gambino vini (7)|5.98e+00|1.77e+01|3.09e+01|
+|StazioneFce Linguaglossa (8)|3.56e+00|1.06e+01|2.37e+01|
+|Linguaglossa Via Olivio Sozzi (9)|3.46e+00|1.02e+01|2.34e+01|
+|Cim.Linguaglossa (10)|3.78e+00|1.33e+01|2.46e+01|
+|Gole Bar (11)|9.63e-01|4.28e+00|1.25e+01|
+|Francavilla - Orange (12)|7.73e-01|2.93e+00|1.40e+01|
+|Roccalumera1 (13)|2.08e-04|2.79e-01|1.22e+00|
+|Roccalumera2 (14)|7.05e-05|2.16e-01|1.24e+00|
+|Nizza (15)|6.98e-05|1.97e-01|1.25e+00|
+|Scaletta Zanclea (16)|0.00e+00|2.32e-03|6.87e-01|
+|Alì (17)|7.27e-06|9.22e-02|1.39e+00|
+  
+
+### Atmosphere 2021-03-04 11:20 Z
+  
+![](./figures/probability_air_2021_03_04_1120_grid_2_conclev_1_1003.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
