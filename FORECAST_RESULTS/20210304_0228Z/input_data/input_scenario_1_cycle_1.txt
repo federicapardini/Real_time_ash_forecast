@@ -1,0 +1,14 @@
+Sim. cycle     : 1
+Eruption start : 2021-03-04 02:30:00
+Eruption end   : 2021-03-04 03:30:00
+Runtime  start : 2021-03-04 02:30:00
+Runtime  end   : 2021-03-04 03:30:00
+
+Meteo data : 1
+Eruptive scenarios : 1
++--------+----------+-------------+
+| H [m]* | MU [phi] | SIGMA [phi] |
++--------+----------+-------------+
+| 4840.0 |  1.828   |     2.85    |
++--------+----------+-------------+
+* Plume height above sea level
