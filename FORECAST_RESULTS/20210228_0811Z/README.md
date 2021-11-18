@@ -15,6 +15,7 @@ Contents
 	* [Forecast at 2021-02-28 09:40 Z from RED VONA issued at 20210228_0835Z](#forecast-at-2021-02-28-0940-z-from-red-vona-issued-at-20210228_0835z)
 	* [Forecast at 2021-02-28 10:40 Z from RED VONA issued at 20210228_0835Z](#forecast-at-2021-02-28-1040-z-from-red-vona-issued-at-20210228_0835z)
 	* [Forecast at 2021-02-28 11:40 Z from RED VONA issued at 20210228_1047Z](#forecast-at-2021-02-28-1140-z-from-red-vona-issued-at-20210228_1047z)
+	* [Forecast at 2021-02-28 12:50 Z from RED VONA issued at 20210228_1047Z](#forecast-at-2021-02-28-1250-z-from-red-vona-issued-at-20210228_1047z)
 
 # Forecast products
 
@@ -483,6 +484,56 @@ Contents
   
 
 ### Atmosphere 2021-02-28 11:40 Z
+
+## Forecast at 2021-02-28 12:50 Z from RED VONA issued at 20210228_1047Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-28 08:10:00|Ongoing|2021-02-28 13:50:00|4500 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|4.50e+04|1.90e+08|1.39e+08|6.09e+08|1.02e+09|
+|50th|1.91e+05|5.09e+08|4.09e+08|1.17e+09|1.98e+09|
+|95th|5.95e+05|1.63e+09|1.46e+09|2.72e+09|4.58e+09|
+  
+
+### Ground Nested Domain 2021-02-28 12:50 Z
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Schiena Asino (1)|2.66e+00|8.85e+00|1.49e+01|
+|Rif.Vescovo (2)|2.85e+00|6.69e+00|1.40e+01|
+|Serra Pituzza (3)|2.53e+00|6.17e+00|1.30e+01|
+|Monterosso (4)|6.34e-01|3.78e+00|9.96e+00|
+|Cim.Pedara (5)|1.09e-01|3.31e+00|7.55e+00|
+|Cim.Viagrande (6)|8.08e-02|2.86e+00|7.30e+00|
+|Cim.Mascalucia (7)|6.62e-04|3.87e-01|2.48e+00|
+|Cim.Tremestieri (8)|5.73e-03|8.96e-01|4.35e+00|
+|Cim.S.Giov.La Punta (9)|6.25e-03|1.15e+00|4.61e+00|
+|Cim.Gravina (10)|8.11e-04|4.21e-01|2.69e+00|
+|ENI S.Giov.Galermo (11)|2.00e-08|8.45e-02|1.03e+00|
+|Bio Piazza Europa (12)|0.00e+00|1.05e-01|1.30e+00|
+|INGV-OE (13)|0.00e+00|4.17e-02|8.95e-01|
+  
+
+### Atmosphere 2021-02-28 12:50 Z
   
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
