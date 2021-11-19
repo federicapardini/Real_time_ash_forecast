@@ -16,6 +16,7 @@ Contents
 	* [Forecast at 2021-02-28 14:40 Z from RED VONA issued at 20210228_0835Z](#forecast-at-2021-02-28-1440-z-from-red-vona-issued-at-20210228_0835z)
 	* [Forecast at 2021-02-28 17:40 Z from RED VONA issued at 20210228_0835Z](#forecast-at-2021-02-28-1740-z-from-red-vona-issued-at-20210228_0835z)
 	* [Forecast at 2021-02-28 20:40 Z from RED VONA issued at 20210228_0835Z](#forecast-at-2021-02-28-2040-z-from-red-vona-issued-at-20210228_0835z)
+	* [Forecast at 2021-02-28 11:50 Z from RED VONA issued at 20210228_1047Z](#forecast-at-2021-02-28-1150-z-from-red-vona-issued-at-20210228_1047z)
 
 # Forecast products
 
@@ -578,6 +579,62 @@ Contents
 
 ### Atmosphere 2021-02-28 20:40 Z
   
-![](./figures/probability_air_2021_02_28_2040_grid_2_conclev_1_10.png)  
+![](./figures/probability_air_2021_02_28_2040_grid_2_conclev_1_10.png)
+## Forecast at 2021-02-28 11:50 Z from RED VONA issued at 20210228_1047Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-28 08:10:00|Ongoing|2021-02-28 11:50:00|4500 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|2.02e+02|5.96e+07|5.60e+07|7.44e+08|7.43e+08|
+|50th|1.07e+03|1.96e+08|1.70e+08|1.67e+09|1.66e+09|
+|95th|9.97e+03|6.27e+08|4.91e+08|2.82e+09|2.81e+09|
+  
+
+### Ground Nested Domain 2021-02-28 11:50 Z
+  
+![](./figures/probability_grd_2021_02_28_1150_grid_1_1001.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Sarro (1)|1.38e+00|4.66e+00|1.24e+01|
+|Airone (2)|2.06e+00|5.45e+00|1.44e+01|
+|Zafferana Ingresso (3)|1.77e+00|5.10e+00|1.33e+01|
+|Zafferana Rotonda (4)|1.87e+00|4.97e+00|1.25e+01|
+|Petrulli (5)|1.39e+00|4.20e+00|9.64e+00|
+|Milo (6)|1.59e+00|3.31e+00|8.23e+00|
+|Fornazzo (7)|1.04e+00|2.97e+00|6.37e+00|
+|Rinuccio (8)|1.08e+00|3.22e+00|5.67e+00|
+|S. Alfio (9)|4.61e-01|1.79e+00|7.60e+00|
+|Macchia (10)|5.37e-01|2.10e+00|7.15e+00|
+|S. Venerina (11)|6.56e-01|3.58e+00|7.97e+00|
+|Linera (12)|8.67e-01|3.35e+00|7.73e+00|
+|Dagala chiesa S. Maria (13)|6.82e-01|3.25e+00|8.22e+00|
+|Giarre Piazza Maccheroni (14)|1.86e-01|1.38e+00|5.37e+00|
+|Milo parco (15)|1.57e+00|3.26e+00|8.35e+00|
+  
+
+### Atmosphere 2021-02-28 11:50 Z
+  
+![](./figures/probability_air_2021_02_28_1150_grid_2_conclev_1_1001.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
