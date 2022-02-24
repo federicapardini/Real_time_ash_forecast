@@ -3,7 +3,7 @@
 <img src="./figures/Logo_INGV.png" width=150pt/>
 
 <p align="center">
-  <img src="./figures/Logo_INGV.png" />
+  <img src="./figures/Logo_INGV.png" width=150pt />
 </p>
 
 
