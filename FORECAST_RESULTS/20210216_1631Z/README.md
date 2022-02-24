@@ -43,7 +43,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 17:30 Z
   
-![](./figures/probability_grd_2021_02_16_1730_grid_1_1.png)  
+![](./figures/probability_grd_2021_02_16_1730_grid_1_1_new.png)  
   
 
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
@@ -78,7 +78,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 18:30 Z
   
-![](./figures/probability_grd_2021_02_16_1830_grid_1_2.png)  
+![](./figures/probability_grd_2021_02_16_1830_grid_1_2_new.png)  
   
   
   
@@ -134,7 +134,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 19:30 Z
   
-![](./figures/probability_grd_2021_02_16_1930_grid_1_3.png)  
+![](./figures/probability_grd_2021_02_16_1930_grid_1_3_new.png)  
   
   
   
@@ -190,7 +190,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 22:30 Z
   
-![](./figures/probability_grd_2021_02_16_2230_grid_1_4.png)  
+![](./figures/probability_grd_2021_02_16_2230_grid_1_4_new.png)  
   
   
   
@@ -246,7 +246,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 01:30 Z
   
-![](./figures/probability_grd_2021_02_17_0130_grid_1_5.png)  
+![](./figures/probability_grd_2021_02_17_0130_grid_1_5_new.png)  
   
   
   
@@ -302,7 +302,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 18:10 Z
   
-![](./figures/probability_grd_2021_02_16_1810_grid_1_6.png)  
+![](./figures/probability_grd_2021_02_16_1810_grid_1_6_new.png)  
   
   
   
@@ -358,7 +358,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 18:40 Z
   
-![](./figures/probability_grd_2021_02_16_1840_grid_1_7.png)  
+![](./figures/probability_grd_2021_02_16_1840_grid_1_7_new.png)  
   
   
   
@@ -414,7 +414,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 19:40 Z
   
-![](./figures/probability_grd_2021_02_16_1940_grid_1_8.png)  
+![](./figures/probability_grd_2021_02_16_1940_grid_1_8_new.png)  
   
   
   
@@ -470,7 +470,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 20:40 Z
   
-![](./figures/probability_grd_2021_02_16_2040_grid_1_9.png)  
+![](./figures/probability_grd_2021_02_16_2040_grid_1_9_new.png)  
   
   
   
@@ -526,7 +526,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-16 23:40 Z
   
-![](./figures/probability_grd_2021_02_16_2340_grid_1_10.png)  
+![](./figures/probability_grd_2021_02_16_2340_grid_1_10_new.png)  
   
   
   
@@ -582,7 +582,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 02:40 Z
   
-![](./figures/probability_grd_2021_02_17_0240_grid_1_11.png)  
+![](./figures/probability_grd_2021_02_17_0240_grid_1_11_new.png)  
   
   
   
@@ -638,7 +638,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 05:40 Z
   
-![](./figures/probability_grd_2021_02_17_0540_grid_1_12.png)  
+![](./figures/probability_grd_2021_02_17_0540_grid_1_12_new.png)  
   
   
   
@@ -694,7 +694,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 08:30 Z
   
-![](./figures/probability_grd_2021_02_17_0830_grid_1_2001.png)  
+![](./figures/probability_grd_2021_02_17_0830_grid_1_2001_new.png)  
   
   
   
@@ -750,7 +750,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 11:30 Z
   
-![](./figures/probability_grd_2021_02_17_1130_grid_1_2002.png)  
+![](./figures/probability_grd_2021_02_17_1130_grid_1_2002_new.png)  
   
   
   
@@ -806,7 +806,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 14:30 Z
   
-![](./figures/probability_grd_2021_02_17_1430_grid_1_2003.png)  
+![](./figures/probability_grd_2021_02_17_1430_grid_1_2003_new.png)  
   
   
   
@@ -862,7 +862,7 @@ Contents
 
 ### Ground Nested Domain 2021-02-17 17:30 Z
   
-![](./figures/probability_grd_2021_02_17_1730_grid_1_2004.png)  
+![](./figures/probability_grd_2021_02_17_1730_grid_1_2004_new.png)  
   
   
   
