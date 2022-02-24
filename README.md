@@ -19,17 +19,17 @@ Forecasts are provided at hours +1, +2, +3, +6, +9 and +12 from the issuing of e
 
 |Type of product|Description|
 | :--- | :--- |
-|MER, Tephra mass in the air, Tephra mass on the ground|Tables showing the 5th, 50th and 95th percentiles of MER [kg/s¹], Mass in the air [kg], Mass on the ground [kg]|
-|Ground load at strategic locations|Tables showing the ground load in kg/m² at a number of locations. For each location, we report 5th, 50th and 95th percentiles of the ground load distribution resulting from the simulations forming the ensemble|
-|Ground hazard maps|Probability in % that the deposit load exceeds 0.5 kg/m² and 5 kg/m²|
-|Atmospheric hazard maps|Probability in % that the ash concentration between differnt FL exceeds 0.2 g/m³|
+|MER, total mass of tephra in the air, total mass of tephra deposited on the ground|Tables showing the 5th, 50th and 95th percentiles of MER [kg/s¹], total mass in the air [kg], total mass on the ground [kg]|
+|Ground load at strategic locations|Tables showing the ground load in kg/m² at a number of locations. For each location, we report the 5th, 50th and 95th percentiles of the ground load distribution resulting from the simulations forming the ensemble|
+|Ground hazard maps|Probability in % that deposit load exceeds 0.5 kg/m² and 5 kg/m²|
+|Atmospheric hazard maps|Probability in % that ash concentration between different atmospheric levels exceeds 0.2 g/m³, 2 g/m³ and 4 g/m³|
 
 ### How to display the results
 * Go to the FORECAST_RESULTS directory
 * Select the directory of interest (each directory is named according to the time of issue of the first red VONA of the event)
-    * The main results are in the file *README.md* which is automatically displayed by selecting the directory of interest. 
-    * Additional information are in *Supplementaty_page.md*. 
-    * All the figures shown in *README.md* and more are collected in the directory *figures* and .txt files reporting the eruptive source parameters used in the simulations are in the directory *input_data* 
+    * The main results are in the file *README.md* which is automatically displayed by selecting the directory of interest
+    * Additional information are in *Supplementaty_page.md*
+    * All the figures shown in the *README.md* and more are collected in the directory *figures*. Additional files reporting the eruptive source parameters used in the simulations are in the directory *input_data*
 
 ### Please note that the numerical procedure is currently under development and daily updated
 
