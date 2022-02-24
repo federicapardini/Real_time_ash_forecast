@@ -1,5 +1,9 @@
 # Real-time tephra forecast at Mt.Etna (Italy)
 
+{: .cssclass1 .cssclass2 }
+![Logo]("./figures/Logo_INGV.png" "Logo title")
+*logo_caption*
+
 <img src="./figures/Logo_INGV.png" width=150pt/>
 
 This repository provides volcanic hazard maps for tephra fallout and dispersal at Mt.Etna (Italy). Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt.Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
