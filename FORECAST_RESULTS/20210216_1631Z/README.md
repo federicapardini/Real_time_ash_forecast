@@ -45,53 +45,16 @@ Contents
   
 ![](./figures/probability_grd_2021_02_16_1730_grid_1_1.png)  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|0.00e+00|9.82e-05|1.38e+00|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|0.00e+00|3.77e-01|2.92e+00|
-|Zafferana (6)|0.00e+00|0.00e+00|4.61e-02|
-|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
-|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
-|Biancavilla (10)|0.00e+00|0.00e+00|0.00e+00|
-|Schiena Asino (11)|1.43e-04|1.39e+00|3.73e+00|
-|Rif.Vescovo (12)|0.00e+00|7.08e-01|3.97e+00|
-|Serra Pituzza (13)|0.00e+00|5.63e-01|5.29e+00|
-|Monterosso (14)|0.00e+00|2.69e-04|1.55e+00|
-|Cim.Pedara (15)|8.03e-06|4.84e-02|3.75e+00|
-|Cim.Viagrande (16)|0.00e+00|5.62e-06|2.86e+00|
-|Cim.Mascalucia (17)|0.00e+00|2.28e-02|2.13e+00|
-|Cim.Tremestieri (18)|0.00e+00|1.90e-03|2.98e+00|
-|Cim.S.Giov.La Punta (19)|0.00e+00|1.83e-04|2.72e+00|
-|Cim.Gravina (20)|0.00e+00|6.81e-03|2.24e+00|
-|ENI S.Giov.Galermo (21)|0.00e+00|2.41e-03|2.68e+00|
-|Bio Piazza Europa (22)|0.00e+00|8.37e-05|6.10e-01|
-|INGV-OE (23)|0.00e+00|3.19e-04|1.79e+00|
+|Nicolosi (2)|0.00e+00|3.77e-01|2.92e+00|
+|Zafferana (3)|0.00e+00|0.00e+00|4.61e-02|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|0.00e+00|
   
 
 ### Atmosphere 2021-02-16 17:30 Z
@@ -142,28 +105,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|2.40e-04|2.51e-02|1.79e+00|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|6.08e-04|1.32e+00|5.45e+00|
-|Zafferana (6)|0.00e+00|0.00e+00|2.42e-01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
-|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
-|Biancavilla (10)|0.00e+00|0.00e+00|0.00e+00|
-|Schiena Asino (11)|7.65e-01|2.65e+00|7.97e+00|
-|Rif.Vescovo (12)|1.46e-03|1.75e+00|6.86e+00|
-|Serra Pituzza (13)|2.04e-03|2.35e+00|8.42e+00|
-|Monterosso (14)|0.00e+00|1.23e-03|1.81e+00|
-|Cim.Pedara (15)|2.00e-03|2.42e-01|5.63e+00|
-|Cim.Viagrande (16)|0.00e+00|1.96e-03|5.41e+00|
-|Cim.Mascalucia (17)|9.95e-04|3.49e-01|2.55e+00|
-|Cim.Tremestieri (18)|1.79e-04|1.43e-01|7.80e+00|
-|Cim.S.Giov.La Punta (19)|1.33e-05|5.25e-02|7.52e+00|
-|Cim.Gravina (20)|9.58e-04|3.62e-01|3.48e+00|
-|ENI S.Giov.Galermo (21)|2.53e-03|1.67e-01|3.55e+00|
-|Bio Piazza Europa (22)|2.63e-06|3.42e-03|1.64e+00|
-|INGV-OE (23)|2.22e-04|2.61e-02|2.31e+00|
+|Nicolosi (2)|6.08e-04|1.32e+00|5.45e+00|
+|Zafferana (3)|0.00e+00|0.00e+00|2.42e-01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|0.00e+00|
   
 
 ### Atmosphere 2021-02-16 18:30 Z
@@ -214,28 +161,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|8.31e-04|1.20e-01|2.17e+00|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|1.07e-01|2.31e+00|8.02e+00|
-|Zafferana (6)|0.00e+00|1.80e-04|2.42e-01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
-|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
-|Biancavilla (10)|0.00e+00|0.00e+00|0.00e+00|
-|Schiena Asino (11)|1.88e+00|4.28e+00|1.01e+01|
-|Rif.Vescovo (12)|6.79e-02|3.39e+00|8.80e+00|
-|Serra Pituzza (13)|9.52e-02|4.43e+00|1.11e+01|
-|Monterosso (14)|2.41e-04|4.53e-01|2.40e+00|
-|Cim.Pedara (15)|1.30e-01|1.42e+00|6.22e+00|
-|Cim.Viagrande (16)|5.72e-05|2.64e-01|8.56e+00|
-|Cim.Mascalucia (17)|1.24e-01|1.36e+00|6.32e+00|
-|Cim.Tremestieri (18)|3.31e-02|4.68e-01|8.73e+00|
-|Cim.S.Giov.La Punta (19)|1.78e-03|5.32e-01|9.75e+00|
-|Cim.Gravina (20)|7.90e-03|6.89e-01|7.94e+00|
-|ENI S.Giov.Galermo (21)|1.68e-02|5.43e-01|4.27e+00|
-|Bio Piazza Europa (22)|1.63e-03|4.97e-02|1.68e+00|
-|INGV-OE (23)|2.95e-03|1.22e-01|2.96e+00|
+|Nicolosi (2)|1.07e-01|2.31e+00|8.02e+00|
+|Zafferana (3)|0.00e+00|1.80e-04|2.42e-01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|0.00e+00|
   
 
 ### Atmosphere 2021-02-16 19:30 Z
@@ -286,28 +217,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|2.43e-02|2.99e-01|3.73e+00|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|1.37e+00|5.12e+00|1.68e+01|
-|Zafferana (6)|0.00e+00|1.13e-03|5.00e-01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
-|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
-|Biancavilla (10)|0.00e+00|0.00e+00|7.08e-06|
-|Schiena Asino (11)|2.03e+00|1.11e+01|1.73e+01|
-|Rif.Vescovo (12)|7.49e-02|8.43e+00|1.56e+01|
-|Serra Pituzza (13)|1.05e-01|9.69e+00|2.10e+01|
-|Monterosso (14)|2.63e-04|1.53e+00|4.15e+00|
-|Cim.Pedara (15)|2.51e-01|3.44e+00|1.40e+01|
-|Cim.Viagrande (16)|5.72e-05|6.10e-01|1.10e+01|
-|Cim.Mascalucia (17)|1.93e-01|1.94e+00|8.31e+00|
-|Cim.Tremestieri (18)|4.27e-02|1.07e+00|1.20e+01|
-|Cim.S.Giov.La Punta (19)|1.05e-02|7.76e-01|1.40e+01|
-|Cim.Gravina (20)|6.33e-02|1.38e+00|9.46e+00|
-|ENI S.Giov.Galermo (21)|9.93e-02|1.18e+00|6.50e+00|
-|Bio Piazza Europa (22)|1.62e-02|1.30e-01|1.93e+00|
-|INGV-OE (23)|2.80e-02|3.73e-01|4.99e+00|
+|Nicolosi (2)|1.37e+00|5.12e+00|1.68e+01|
+|Zafferana (3)|0.00e+00|1.13e-03|5.00e-01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|7.08e-06|
   
 
 ### Atmosphere 2021-02-16 22:30 Z
@@ -358,28 +273,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|1.14e-01|4.02e-01|3.86e+00|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|2.09e+00|9.27e+00|2.06e+01|
-|Zafferana (6)|0.00e+00|1.71e-02|1.00e+00|
-|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
-|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
-|Biancavilla (10)|0.00e+00|0.00e+00|7.08e-06|
-|Schiena Asino (11)|7.25e+00|1.29e+01|2.79e+01|
-|Rif.Vescovo (12)|4.25e+00|1.21e+01|2.54e+01|
-|Serra Pituzza (13)|4.82e+00|1.39e+01|3.35e+01|
-|Monterosso (14)|3.39e-03|2.80e+00|1.07e+01|
-|Cim.Pedara (15)|4.09e-01|7.55e+00|1.61e+01|
-|Cim.Viagrande (16)|4.58e-04|3.32e+00|1.41e+01|
-|Cim.Mascalucia (17)|1.24e+00|3.42e+00|9.73e+00|
-|Cim.Tremestieri (18)|1.48e-01|5.56e+00|1.25e+01|
-|Cim.S.Giov.La Punta (19)|3.49e-02|2.68e+00|1.41e+01|
-|Cim.Gravina (20)|5.81e-01|2.91e+00|9.51e+00|
-|ENI S.Giov.Galermo (21)|3.44e-01|1.84e+00|6.64e+00|
-|Bio Piazza Europa (22)|2.55e-02|6.21e-01|2.06e+00|
-|INGV-OE (23)|1.33e-01|5.26e-01|5.17e+00|
+|Nicolosi (2)|2.09e+00|9.27e+00|2.06e+01|
+|Zafferana (3)|0.00e+00|1.71e-02|1.00e+00|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|7.08e-06|
   
 
 ### Atmosphere 2021-02-17 01:30 Z
@@ -430,28 +329,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|4.10e-04|2.57e-01|1.88e+00|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|3.24e-03|9.84e-01|6.99e+00|
-|Zafferana (6)|0.00e+00|1.37e-04|1.54e-01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|0.00e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|0.00e+00|
-|Bronte (9)|0.00e+00|0.00e+00|0.00e+00|
-|Biancavilla (10)|0.00e+00|0.00e+00|8.93e-04|
-|Schiena Asino (11)|4.24e-01|7.91e+00|2.54e+01|
-|Rif.Vescovo (12)|7.93e-04|2.97e+00|2.60e+01|
-|Serra Pituzza (13)|1.11e-03|4.12e+00|3.59e+01|
-|Monterosso (14)|0.00e+00|5.68e-02|2.57e+00|
-|Cim.Pedara (15)|5.39e-03|4.10e-01|4.50e+00|
-|Cim.Viagrande (16)|0.00e+00|5.07e-02|5.81e+00|
-|Cim.Mascalucia (17)|1.60e-02|3.80e-01|2.91e+00|
-|Cim.Tremestieri (18)|8.25e-04|3.35e-01|3.40e+00|
-|Cim.S.Giov.La Punta (19)|4.70e-05|1.87e-01|3.20e+00|
-|Cim.Gravina (20)|5.19e-03|2.47e-01|3.62e+00|
-|ENI S.Giov.Galermo (21)|2.46e-03|3.76e-01|3.09e+00|
-|Bio Piazza Europa (22)|6.42e-05|4.30e-01|1.73e+00|
-|INGV-OE (23)|1.94e-04|2.19e-01|1.80e+00|
+|Nicolosi (2)|3.24e-03|9.84e-01|6.99e+00|
+|Zafferana (3)|0.00e+00|1.37e-04|1.54e-01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|8.93e-04|
   
 
 ### Atmosphere 2021-02-16 18:10 Z
@@ -502,28 +385,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|6.73e-02|9.65e-01|1.28e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|5.67e-01|3.01e+00|2.96e+01|
-|Zafferana (6)|0.00e+00|1.78e-02|1.98e+00|
-|Linguaglossa (7)|0.00e+00|0.00e+00|5.69e-03|
-|Randazzo (8)|0.00e+00|0.00e+00|2.37e-04|
-|Bronte (9)|0.00e+00|0.00e+00|6.63e-03|
-|Biancavilla (10)|0.00e+00|0.00e+00|1.84e-01|
-|Schiena Asino (11)|1.04e+00|1.41e+01|1.80e+02|
-|Rif.Vescovo (12)|2.00e-01|6.56e+00|1.25e+02|
-|Serra Pituzza (13)|2.17e-01|8.62e+00|1.64e+02|
-|Monterosso (14)|3.54e-03|9.57e-01|4.94e+00|
-|Cim.Pedara (15)|1.37e-01|1.47e+00|2.69e+01|
-|Cim.Viagrande (16)|1.88e-03|1.22e+00|8.14e+00|
-|Cim.Mascalucia (17)|9.65e-02|1.30e+00|1.19e+01|
-|Cim.Tremestieri (18)|8.54e-02|1.24e+00|1.89e+01|
-|Cim.S.Giov.La Punta (19)|7.02e-02|1.12e+00|8.95e+00|
-|Cim.Gravina (20)|9.31e-02|9.83e-01|1.20e+01|
-|ENI S.Giov.Galermo (21)|4.89e-02|1.35e+00|1.26e+01|
-|Bio Piazza Europa (22)|5.97e-02|8.25e-01|1.06e+01|
-|INGV-OE (23)|5.20e-02|9.04e-01|1.16e+01|
+|Nicolosi (2)|5.67e-01|3.01e+00|2.96e+01|
+|Zafferana (3)|0.00e+00|1.78e-02|1.98e+00|
+|Linguaglossa (4)|0.00e+00|0.00e+00|5.69e-03|
+|Randazzo (5)|0.00e+00|0.00e+00|2.37e-04|
+|Bronte (6)|0.00e+00|0.00e+00|6.63e-03|
+|Biancavilla (7)|0.00e+00|0.00e+00|1.84e-01|
   
 
 ### Atmosphere 2021-02-16 18:40 Z
@@ -574,28 +441,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|3.60e-01|3.08e+00|1.80e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|1.15e+00|4.14e+00|3.72e+01|
-|Zafferana (6)|0.00e+00|5.86e-02|2.36e+00|
-|Linguaglossa (7)|0.00e+00|0.00e+00|7.01e-03|
-|Randazzo (8)|0.00e+00|0.00e+00|3.23e-04|
-|Bronte (9)|0.00e+00|0.00e+00|8.31e-03|
-|Biancavilla (10)|0.00e+00|1.28e-03|2.64e-01|
-|Schiena Asino (11)|6.04e+00|3.30e+01|2.88e+02|
-|Rif.Vescovo (12)|2.75e+00|2.01e+01|1.83e+02|
-|Serra Pituzza (13)|2.14e+00|2.28e+01|2.45e+02|
-|Monterosso (14)|2.39e-02|1.74e+00|2.75e+01|
-|Cim.Pedara (15)|3.38e-01|3.95e+00|8.45e+01|
-|Cim.Viagrande (16)|2.04e-02|3.45e+00|1.02e+01|
-|Cim.Mascalucia (17)|2.48e-01|3.61e+00|2.07e+01|
-|Cim.Tremestieri (18)|2.21e-01|2.75e+00|3.34e+01|
-|Cim.S.Giov.La Punta (19)|3.28e-01|3.62e+00|3.19e+01|
-|Cim.Gravina (20)|3.06e-01|3.13e+00|1.58e+01|
-|ENI S.Giov.Galermo (21)|3.30e-01|3.87e+00|1.81e+01|
-|Bio Piazza Europa (22)|4.58e-01|2.42e+00|1.49e+01|
-|INGV-OE (23)|2.91e-01|3.07e+00|1.63e+01|
+|Nicolosi (2)|1.15e+00|4.14e+00|3.72e+01|
+|Zafferana (3)|0.00e+00|5.86e-02|2.36e+00|
+|Linguaglossa (4)|0.00e+00|0.00e+00|7.01e-03|
+|Randazzo (5)|0.00e+00|0.00e+00|3.23e-04|
+|Bronte (6)|0.00e+00|0.00e+00|8.31e-03|
+|Biancavilla (7)|0.00e+00|1.28e-03|2.64e-01|
   
 
 ### Atmosphere 2021-02-16 19:40 Z
@@ -646,28 +497,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|3.85e-01|5.57e+00|2.04e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|1.53e+00|7.12e+00|3.89e+01|
-|Zafferana (6)|3.00e-05|1.54e-01|1.94e+01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|1.54e-02|
-|Randazzo (8)|0.00e+00|0.00e+00|4.52e-04|
-|Bronte (9)|0.00e+00|0.00e+00|8.42e-03|
-|Biancavilla (10)|0.00e+00|9.04e-03|3.14e-01|
-|Schiena Asino (11)|6.84e+00|8.40e+01|2.99e+02|
-|Rif.Vescovo (12)|3.02e+00|3.66e+01|2.10e+02|
-|Serra Pituzza (13)|2.53e+00|4.29e+01|2.63e+02|
-|Monterosso (14)|2.74e-02|2.20e+00|1.05e+02|
-|Cim.Pedara (15)|4.32e-01|1.13e+01|9.00e+01|
-|Cim.Viagrande (16)|4.76e-02|5.75e+00|1.10e+01|
-|Cim.Mascalucia (17)|3.37e-01|4.68e+00|2.94e+01|
-|Cim.Tremestieri (18)|3.36e-01|5.40e+00|4.06e+01|
-|Cim.S.Giov.La Punta (19)|4.98e-01|5.46e+00|3.35e+01|
-|Cim.Gravina (20)|4.10e-01|4.38e+00|3.84e+01|
-|ENI S.Giov.Galermo (21)|5.08e-01|5.32e+00|2.41e+01|
-|Bio Piazza Europa (22)|5.44e-01|5.20e+00|1.99e+01|
-|INGV-OE (23)|3.13e-01|5.12e+00|2.63e+01|
+|Nicolosi (2)|1.53e+00|7.12e+00|3.89e+01|
+|Zafferana (3)|3.00e-05|1.54e-01|1.94e+01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|1.54e-02|
+|Randazzo (5)|0.00e+00|0.00e+00|4.52e-04|
+|Bronte (6)|0.00e+00|0.00e+00|8.42e-03|
+|Biancavilla (7)|0.00e+00|9.04e-03|3.14e-01|
   
 
 ### Atmosphere 2021-02-16 20:40 Z
@@ -718,28 +553,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|2.06e+00|8.58e+00|3.63e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|3.81e+00|1.46e+01|1.63e+02|
-|Zafferana (6)|1.89e-02|2.33e-01|2.34e+01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|1.42e-01|
-|Randazzo (8)|0.00e+00|0.00e+00|4.00e-03|
-|Bronte (9)|0.00e+00|8.33e-05|2.68e-02|
-|Biancavilla (10)|1.26e-05|3.02e-02|1.07e+00|
-|Schiena Asino (11)|2.26e+01|1.69e+02|5.74e+02|
-|Rif.Vescovo (12)|1.79e+01|1.33e+02|3.02e+02|
-|Serra Pituzza (13)|2.38e+01|1.17e+02|4.18e+02|
-|Monterosso (14)|1.94e-01|4.77e+00|1.55e+02|
-|Cim.Pedara (15)|2.50e+00|2.60e+01|9.36e+01|
-|Cim.Viagrande (16)|3.72e-01|8.65e+00|3.98e+01|
-|Cim.Mascalucia (17)|2.95e+00|1.07e+01|4.82e+01|
-|Cim.Tremestieri (18)|1.31e+00|1.42e+01|4.06e+01|
-|Cim.S.Giov.La Punta (19)|9.02e-01|1.15e+01|4.00e+01|
-|Cim.Gravina (20)|2.10e+00|8.55e+00|4.38e+01|
-|ENI S.Giov.Galermo (21)|3.69e+00|1.09e+01|4.57e+01|
-|Bio Piazza Europa (22)|2.42e+00|1.62e+01|3.62e+01|
-|INGV-OE (23)|1.60e+00|7.85e+00|3.68e+01|
+|Nicolosi (2)|3.81e+00|1.46e+01|1.63e+02|
+|Zafferana (3)|1.89e-02|2.33e-01|2.34e+01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|1.42e-01|
+|Randazzo (5)|0.00e+00|0.00e+00|4.00e-03|
+|Bronte (6)|0.00e+00|8.33e-05|2.68e-02|
+|Biancavilla (7)|1.26e-05|3.02e-02|1.07e+00|
   
 
 ### Atmosphere 2021-02-16 23:40 Z
@@ -790,28 +609,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|4.28e+00|2.14e+01|5.76e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|7.52e+00|1.99e+01|1.99e+02|
-|Zafferana (6)|2.27e-02|3.65e-01|7.33e+01|
-|Linguaglossa (7)|0.00e+00|0.00e+00|1.44e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|2.69e-01|
-|Bronte (9)|0.00e+00|8.33e-05|2.44e-01|
-|Biancavilla (10)|1.26e-05|3.07e-02|2.51e+00|
-|Schiena Asino (11)|6.09e+01|2.44e+02|7.32e+02|
-|Rif.Vescovo (12)|4.61e+01|2.16e+02|4.92e+02|
-|Serra Pituzza (13)|5.31e+01|2.29e+02|6.42e+02|
-|Monterosso (14)|1.99e-01|6.72e+00|1.56e+02|
-|Cim.Pedara (15)|3.96e+00|3.43e+01|1.05e+02|
-|Cim.Viagrande (16)|4.99e-01|1.10e+01|5.84e+01|
-|Cim.Mascalucia (17)|4.46e+00|1.86e+01|5.92e+01|
-|Cim.Tremestieri (18)|1.58e+00|2.36e+01|7.64e+01|
-|Cim.S.Giov.La Punta (19)|1.08e+00|1.68e+01|4.77e+01|
-|Cim.Gravina (20)|3.39e+00|1.78e+01|5.65e+01|
-|ENI S.Giov.Galermo (21)|5.41e+00|1.35e+01|5.32e+01|
-|Bio Piazza Europa (22)|2.62e+00|2.01e+01|5.48e+01|
-|INGV-OE (23)|3.33e+00|1.96e+01|5.37e+01|
+|Nicolosi (2)|7.52e+00|1.99e+01|1.99e+02|
+|Zafferana (3)|2.27e-02|3.65e-01|7.33e+01|
+|Linguaglossa (4)|0.00e+00|0.00e+00|1.44e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|2.69e-01|
+|Bronte (6)|0.00e+00|8.33e-05|2.44e-01|
+|Biancavilla (7)|1.26e-05|3.07e-02|2.51e+00|
   
 
 ### Atmosphere 2021-02-17 02:40 Z
@@ -862,28 +665,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|6.33e+00|2.46e+01|6.17e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|7.74e+00|3.14e+01|2.20e+02|
-|Zafferana (6)|3.43e-02|2.02e+00|7.55e+01|
-|Linguaglossa (7)|0.00e+00|9.07e-04|1.44e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|2.69e-01|
-|Bronte (9)|0.00e+00|2.68e-04|3.02e-01|
-|Biancavilla (10)|1.26e-05|1.30e-01|2.54e+00|
-|Schiena Asino (11)|1.13e+02|2.80e+02|7.62e+02|
-|Rif.Vescovo (12)|7.83e+01|2.39e+02|6.03e+02|
-|Serra Pituzza (13)|6.24e+01|2.74e+02|6.71e+02|
-|Monterosso (14)|1.40e+00|1.20e+01|1.56e+02|
-|Cim.Pedara (15)|8.60e+00|4.26e+01|1.18e+02|
-|Cim.Viagrande (16)|2.23e+00|1.40e+01|1.01e+02|
-|Cim.Mascalucia (17)|8.90e+00|2.62e+01|6.11e+01|
-|Cim.Tremestieri (18)|4.95e+00|2.63e+01|8.01e+01|
-|Cim.S.Giov.La Punta (19)|3.04e+00|2.17e+01|6.00e+01|
-|Cim.Gravina (20)|5.34e+00|2.20e+01|6.75e+01|
-|ENI S.Giov.Galermo (21)|9.13e+00|1.87e+01|6.40e+01|
-|Bio Piazza Europa (22)|5.16e+00|2.14e+01|5.62e+01|
-|INGV-OE (23)|5.72e+00|2.31e+01|5.69e+01|
+|Nicolosi (2)|7.74e+00|3.14e+01|2.20e+02|
+|Zafferana (3)|3.43e-02|2.02e+00|7.55e+01|
+|Linguaglossa (4)|0.00e+00|9.07e-04|1.44e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|2.69e-01|
+|Bronte (6)|0.00e+00|2.68e-04|3.02e-01|
+|Biancavilla (7)|1.26e-05|1.30e-01|2.54e+00|
   
 
 ### Atmosphere 2021-02-17 05:40 Z
@@ -934,28 +721,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|7.04e+00|2.47e+01|6.18e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|8.24e+00|3.16e+01|2.21e+02|
-|Zafferana (6)|3.96e-02|1.96e+00|7.55e+01|
-|Linguaglossa (7)|0.00e+00|9.07e-04|1.44e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|2.69e-01|
-|Bronte (9)|0.00e+00|5.58e-04|3.02e-01|
-|Biancavilla (10)|1.26e-05|1.35e-01|2.54e+00|
-|Schiena Asino (11)|1.13e+02|2.80e+02|7.61e+02|
-|Rif.Vescovo (12)|7.96e+01|2.38e+02|6.03e+02|
-|Serra Pituzza (13)|6.87e+01|2.74e+02|6.71e+02|
-|Monterosso (14)|1.56e+00|1.20e+01|1.56e+02|
-|Cim.Pedara (15)|8.95e+00|4.91e+01|1.19e+02|
-|Cim.Viagrande (16)|2.44e+00|1.40e+01|1.01e+02|
-|Cim.Mascalucia (17)|8.90e+00|2.65e+01|6.17e+01|
-|Cim.Tremestieri (18)|5.80e+00|2.65e+01|8.02e+01|
-|Cim.S.Giov.La Punta (19)|3.67e+00|2.17e+01|6.17e+01|
-|Cim.Gravina (20)|6.36e+00|2.23e+01|6.75e+01|
-|ENI S.Giov.Galermo (21)|9.44e+00|1.99e+01|6.44e+01|
-|Bio Piazza Europa (22)|5.66e+00|2.17e+01|5.62e+01|
-|INGV-OE (23)|6.45e+00|2.41e+01|5.70e+01|
+|Nicolosi (2)|8.24e+00|3.16e+01|2.21e+02|
+|Zafferana (3)|3.96e-02|1.96e+00|7.55e+01|
+|Linguaglossa (4)|0.00e+00|9.07e-04|1.44e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|2.69e-01|
+|Bronte (6)|0.00e+00|5.58e-04|3.02e-01|
+|Biancavilla (7)|1.26e-05|1.35e-01|2.54e+00|
   
 
 ### Atmosphere 2021-02-17 08:30 Z
@@ -1006,28 +777,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|7.04e+00|2.47e+01|6.18e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|8.24e+00|3.16e+01|2.21e+02|
-|Zafferana (6)|3.96e-02|1.96e+00|7.55e+01|
-|Linguaglossa (7)|0.00e+00|9.07e-04|1.44e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|2.69e-01|
-|Bronte (9)|0.00e+00|5.58e-04|3.02e-01|
-|Biancavilla (10)|1.26e-05|1.35e-01|2.54e+00|
-|Schiena Asino (11)|1.13e+02|2.80e+02|7.61e+02|
-|Rif.Vescovo (12)|7.96e+01|2.38e+02|6.03e+02|
-|Serra Pituzza (13)|6.87e+01|2.74e+02|6.71e+02|
-|Monterosso (14)|1.56e+00|1.20e+01|1.56e+02|
-|Cim.Pedara (15)|8.95e+00|4.91e+01|1.19e+02|
-|Cim.Viagrande (16)|2.44e+00|1.40e+01|1.01e+02|
-|Cim.Mascalucia (17)|8.90e+00|2.65e+01|6.17e+01|
-|Cim.Tremestieri (18)|5.80e+00|2.65e+01|8.02e+01|
-|Cim.S.Giov.La Punta (19)|3.67e+00|2.17e+01|6.17e+01|
-|Cim.Gravina (20)|6.36e+00|2.23e+01|6.75e+01|
-|ENI S.Giov.Galermo (21)|9.44e+00|1.99e+01|6.44e+01|
-|Bio Piazza Europa (22)|5.66e+00|2.17e+01|5.62e+01|
-|INGV-OE (23)|6.45e+00|2.41e+01|5.70e+01|
+|Nicolosi (2)|8.24e+00|3.16e+01|2.21e+02|
+|Zafferana (3)|3.96e-02|1.96e+00|7.55e+01|
+|Linguaglossa (4)|0.00e+00|9.07e-04|1.44e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|2.69e-01|
+|Bronte (6)|0.00e+00|5.58e-04|3.02e-01|
+|Biancavilla (7)|1.26e-05|1.35e-01|2.54e+00|
   
 
 ### Atmosphere 2021-02-17 11:30 Z
@@ -1078,28 +833,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|7.04e+00|2.47e+01|6.18e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|8.24e+00|3.16e+01|2.21e+02|
-|Zafferana (6)|3.96e-02|1.96e+00|7.55e+01|
-|Linguaglossa (7)|0.00e+00|9.07e-04|1.44e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|2.69e-01|
-|Bronte (9)|0.00e+00|5.58e-04|3.02e-01|
-|Biancavilla (10)|1.26e-05|1.35e-01|2.54e+00|
-|Schiena Asino (11)|1.13e+02|2.80e+02|7.61e+02|
-|Rif.Vescovo (12)|7.96e+01|2.38e+02|6.03e+02|
-|Serra Pituzza (13)|6.87e+01|2.74e+02|6.71e+02|
-|Monterosso (14)|1.56e+00|1.20e+01|1.56e+02|
-|Cim.Pedara (15)|8.95e+00|4.91e+01|1.19e+02|
-|Cim.Viagrande (16)|2.44e+00|1.40e+01|1.01e+02|
-|Cim.Mascalucia (17)|8.90e+00|2.65e+01|6.17e+01|
-|Cim.Tremestieri (18)|5.80e+00|2.65e+01|8.02e+01|
-|Cim.S.Giov.La Punta (19)|3.67e+00|2.17e+01|6.17e+01|
-|Cim.Gravina (20)|6.36e+00|2.23e+01|6.75e+01|
-|ENI S.Giov.Galermo (21)|9.44e+00|1.99e+01|6.44e+01|
-|Bio Piazza Europa (22)|5.66e+00|2.17e+01|5.62e+01|
-|INGV-OE (23)|6.45e+00|2.41e+01|5.70e+01|
+|Nicolosi (2)|8.24e+00|3.16e+01|2.21e+02|
+|Zafferana (3)|3.96e-02|1.96e+00|7.55e+01|
+|Linguaglossa (4)|0.00e+00|9.07e-04|1.44e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|2.69e-01|
+|Bronte (6)|0.00e+00|5.58e-04|3.02e-01|
+|Biancavilla (7)|1.26e-05|1.35e-01|2.54e+00|
   
 
 ### Atmosphere 2021-02-17 14:30 Z
@@ -1150,28 +889,12 @@ Contents
 |Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
 | :--- | :--- | :--- | :--- |
 |Catania AP (1)|7.04e+00|2.47e+01|6.18e+01|
-|Siracusa (2)|nan|nan|nan|
-|Reggio Calabria (3)|nan|nan|nan|
-|Palermo (4)|nan|nan|nan|
-|Nicolosi (5)|8.24e+00|3.16e+01|2.21e+02|
-|Zafferana (6)|3.96e-02|1.96e+00|7.55e+01|
-|Linguaglossa (7)|0.00e+00|9.07e-04|1.44e+00|
-|Randazzo (8)|0.00e+00|0.00e+00|2.69e-01|
-|Bronte (9)|0.00e+00|5.58e-04|3.02e-01|
-|Biancavilla (10)|1.26e-05|1.35e-01|2.54e+00|
-|Schiena Asino (11)|1.13e+02|2.80e+02|7.61e+02|
-|Rif.Vescovo (12)|7.96e+01|2.38e+02|6.03e+02|
-|Serra Pituzza (13)|6.87e+01|2.74e+02|6.71e+02|
-|Monterosso (14)|1.56e+00|1.20e+01|1.56e+02|
-|Cim.Pedara (15)|8.95e+00|4.91e+01|1.19e+02|
-|Cim.Viagrande (16)|2.44e+00|1.40e+01|1.01e+02|
-|Cim.Mascalucia (17)|8.90e+00|2.65e+01|6.17e+01|
-|Cim.Tremestieri (18)|5.80e+00|2.65e+01|8.02e+01|
-|Cim.S.Giov.La Punta (19)|3.67e+00|2.17e+01|6.17e+01|
-|Cim.Gravina (20)|6.36e+00|2.23e+01|6.75e+01|
-|ENI S.Giov.Galermo (21)|9.44e+00|1.99e+01|6.44e+01|
-|Bio Piazza Europa (22)|5.66e+00|2.17e+01|5.62e+01|
-|INGV-OE (23)|6.45e+00|2.41e+01|5.70e+01|
+|Nicolosi (2)|8.24e+00|3.16e+01|2.21e+02|
+|Zafferana (3)|3.96e-02|1.96e+00|7.55e+01|
+|Linguaglossa (4)|0.00e+00|9.07e-04|1.44e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|2.69e-01|
+|Bronte (6)|0.00e+00|5.58e-04|3.02e-01|
+|Biancavilla (7)|1.26e-05|1.35e-01|2.54e+00|
   
 
 ### Atmosphere 2021-02-17 17:30 Z
