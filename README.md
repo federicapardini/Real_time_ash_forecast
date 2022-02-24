@@ -1,7 +1,7 @@
 # Real-time tephra forecast at Mt.Etna (Italy)
 
 <p align="center">
-  <img src="./figures/Logo_INGV.png" width=150pt />
+  <img src="./logo_dir/Logo_INGV.png" width=150pt />
 </p>
 
 
