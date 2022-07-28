@@ -7,6 +7,7 @@ Contents
 
 * [Forecast products](#forecast-products)
 	* [Forecast at 2021-02-16 17:30 Z from RED VONA issued at 20210216_1631Z](#forecast-at-2021-02-16-1730-z-from-red-vona-issued-at-20210216_1631z)
+	* [Forecast at 2021-02-16 18:30 Z from RED VONA issued at 20210216_1631Z](#forecast-at-2021-02-16-1830-z-from-red-vona-issued-at-20210216_1631z)
 
 # Forecast products
 
@@ -49,6 +50,46 @@ Contents
 
 ### Atmosphere 2021-02-16 17:30 Z
   
-![](./figures/probability_air_2021_02_16_1730_grid_2_conclev_1_1.png)  
+![](./figures/probability_air_2021_02_16_1730_grid_2_conclev_1_1.png)
+## Forecast at 2021-02-16 18:30 Z from RED VONA issued at 20210216_1631Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-16 18:30:00|6000 ± 500 - from VONA|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|2.38e+04|5.49e+07|2.91e+07|2.04e+08|2.04e+08|
+|50th|8.24e+04|1.19e+08|9.95e+07|4.98e+08|4.95e+08|
+|95th|1.87e+05|2.19e+08|1.85e+08|9.51e+08|8.93e+08|
+  
+
+### Ground Nested Domain 2021-02-16 18:30 Z
+  
+![](./figures/probability_grd_2021_02_16_1830_grid_1_2.png)  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|2.79e-03|1.11e-01|1.84e+00|
+|Nicolosi (2)|1.73e-02|2.21e+00|5.72e+00|
+|Zafferana (3)|0.00e+00|0.00e+00|3.57e-04|
+|Linguaglossa (4)|0.00e+00|0.00e+00|0.00e+00|
+|Randazzo (5)|0.00e+00|0.00e+00|0.00e+00|
+|Bronte (6)|0.00e+00|0.00e+00|0.00e+00|
+|Biancavilla (7)|0.00e+00|0.00e+00|1.95e-06|
+  
+
+### Atmosphere 2021-02-16 18:30 Z
+  
+![](./figures/probability_air_2021_02_16_1830_grid_2_conclev_1_2.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
