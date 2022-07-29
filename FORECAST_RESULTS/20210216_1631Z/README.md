@@ -18,6 +18,7 @@ Contents
 	* [Forecast at 2021-02-16 20:40 Z from RED VONA issued at 20210216_1738Z](#forecast-at-2021-02-16-2040-z-from-red-vona-issued-at-20210216_1738z)
 	* [Forecast at 2021-02-16 23:40 Z from RED VONA issued at 20210216_1738Z](#forecast-at-2021-02-16-2340-z-from-red-vona-issued-at-20210216_1738z)
 	* [Forecast at 2021-02-17 02:40 Z from RED VONA issued at 20210216_1738Z](#forecast-at-2021-02-17-0240-z-from-red-vona-issued-at-20210216_1738z)
+	* [Forecast at 2021-02-17 05:40 Z from RED VONA issued at 20210216_1738Z](#forecast-at-2021-02-17-0540-z-from-red-vona-issued-at-20210216_1738z)
 
 # Forecast products
 
@@ -500,6 +501,46 @@ Contents
 
 ### Atmosphere 2021-02-17 02:40 Z
   
-![](./figures/probability_air_2021_02_17_0240_grid_2_conclev_1_12.png)  
+![](./figures/probability_air_2021_02_17_0240_grid_2_conclev_1_12.png)
+## Forecast at 2021-02-17 05:40 Z from RED VONA issued at 20210216_1738Z
+  
+
+|Eruption start [Z]|Eruption end [Z]|Forecast time [Z]|Column height asl [m]|
+| :--- | :--- | :--- | :--- |
+|2021-02-16 16:30:00|Ongoing|2021-02-17 05:40:00|[5000 m, 15000 m]|
+  
+  
+
+|Percentile|MER [kg/s¹]|Mass air [kg]|Mass air nested dom. [kg]|Mass grd [kg]|Mass grd nested dom. [kg]|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|5th|3.84e+04|1.20e+08|3.51e+07|2.65e+10|1.31e+10|
+|50th|7.30e+05|4.13e+09|1.29e+09|1.89e+11|7.85e+10|
+|95th|2.63e+07|6.94e+10|2.94e+10|5.45e+11|2.49e+11|
+  
+
+### Ground Nested Domain 2021-02-17 05:40 Z
+  
+![](./figures/probability_grd_2021_02_17_0540_grid_1_13.png)  
+  
+  
+  
+  
+  
+  
+
+|Location|Ground load [kg/m²] 5th perc|Ground load [kg/m²] 50th perc|Ground load [kg/m²] 95th perc|
+| :--- | :--- | :--- | :--- |
+|Catania AP (1)|5.94e+00|2.53e+01|7.43e+01|
+|Nicolosi (2)|4.94e+00|4.38e+01|3.74e+02|
+|Zafferana (3)|5.17e-03|6.00e-01|2.78e+00|
+|Linguaglossa (4)|0.00e+00|1.86e-03|9.69e-02|
+|Randazzo (5)|0.00e+00|1.17e-05|7.89e-03|
+|Bronte (6)|0.00e+00|1.58e-03|6.54e-02|
+|Biancavilla (7)|4.08e-06|1.70e-01|1.96e+00|
+  
+
+### Atmosphere 2021-02-17 05:40 Z
+  
+![](./figures/probability_air_2021_02_17_0540_grid_2_conclev_1_13.png)  
 Go to [Supplementary page](Supplementary_page.md)  
 Go to [Main directory](https://github.com/federicapardini/Real_time_ash_forecast)
